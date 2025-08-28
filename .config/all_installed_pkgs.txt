@@ -3,8 +3,12 @@ base 3-2
 base-devel 1-2
 bluez 5.83-1
 bluez-utils 5.83-1
+brightnessctl 0.5.1-3
 btop 1.4.4-1
+cava 0.10.4-3
+cliphist 1:0.6.1-1
 cmake 4.1.1-1
+ddcutil 2.2.1-1
 debtap 3.6.3-1
 efibootmgr 18-3
 eza 0.23.0-1
@@ -13,6 +17,7 @@ ffmpegthumbnailer 2.2.3-3
 firefox 142.0.1-1
 git 2.51.0-1
 git-filter-repo 2.47.0-2
+gpu-screen-recorder r1154.a1ef9ee-1
 greetd-tuigreet 0.9.1-1
 grub 2:2.12.r292.g73d1c959-1
 gst-plugin-pipewire 1:1.4.7-1
@@ -23,6 +28,7 @@ hyprpaper 0.7.5-3
 hyprpicker 0.4.5-4
 hyprpolkitagent 0.1.3-1
 hyprshot 1.3.0-4
+inter-font 4.1-1
 keepassxc 2.7.10-4
 kitty 0.42.2-1
 less 1:679-1
@@ -32,6 +38,7 @@ linux 6.16.3.arch1-1
 linux-firmware 20250808-1
 linux-headers 6.16.3.arch1-1
 man-db 2.13.1-1
+matugen-git 2.4.1.r87.gb99097c-1
 mesa-utils 9.0.0-7
 mpv 1:0.40.0-5
 neovim 0.11.3-1
@@ -47,13 +54,17 @@ pipewire 1:1.4.7-1
 pipewire-alsa 1:1.4.7-1
 pipewire-jack 1:1.4.7-1
 pipewire-pulse 1:1.4.7-1
+power-profiles-daemon 0.30-1
 python-gobject 3.52.3-3
 qimgv-git 1.0.2.r179.ga8e335b-1
 qt5-wayland 5.15.17+kde+r57-1
+qt6-5compat 6.9.1-1
+quickshell-git 0.2.0.r3.gf7597cd-1
 rofi-wayland 1.7.9.1-1
 sof-firmware 2025.05.1-1
-tlp 1.8.0-1
-tlp-rdw 1.8.0-1
+swww 0.10.3-1
+ttf-material-symbols-variable-git 4.0.0.r138.gf5f256f0-1
+ttf-roboto 3.011-1
 tumbler 4.20.0-3
 unzip 6.0-23
 vim 9.1.1623-1
@@ -61,6 +72,7 @@ visual-studio-code-bin 1.103.2-1
 waybar 0.14.0-1
 wget 1.25.0-2
 wireplumber 0.5.10-1
+wlsunset 0.4.0-1
 xdg-desktop-portal-gtk 1.15.3-1
 xdg-desktop-portal-hyprland 1.3.10-1
 yay 12.5.0-1

@@ -1,6 +1,13 @@
 debtap
+google-breakpad
+gpu-screen-recorder
+gpu-screen-recorder-debug
+matugen-git
+matugen-git-debug
 qimgv-git
 qimgv-git-debug
+quickshell-git
+ttf-material-symbols-variable-git
 ty-debug
 visual-studio-code-bin
 yay
