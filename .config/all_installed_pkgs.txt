@@ -12,6 +12,7 @@ fd 10.3.0-1
 ffmpegthumbnailer 2.2.3-3
 firefox 142.0.1-1
 git 2.51.0-1
+git-filter-repo 2.47.0-2
 greetd-tuigreet 0.9.1-1
 grub 2:2.12.r292.g73d1c959-1
 gst-plugin-pipewire 1:1.4.7-1
@@ -51,6 +52,8 @@ qimgv-git 1.0.2.r179.ga8e335b-1
 qt5-wayland 5.15.17+kde+r57-1
 rofi-wayland 1.7.9.1-1
 sof-firmware 2025.05.1-1
+tlp 1.8.0-1
+tlp-rdw 1.8.0-1
 tumbler 4.20.0-3
 unzip 6.0-23
 vim 9.1.1623-1
