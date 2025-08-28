@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = oleksiy12345@live.it
+	name = Oleksiy Nedobiychuk
+[core]
+	editor = vim
