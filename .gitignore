@@ -20,3 +20,4 @@ bash_logout
 .config/Code
 .config/pulse
 .config/dconf
+.git-credentials
