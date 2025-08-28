@@ -1,9 +1,0 @@
-2025-08-28 16:36:28.884 [info] Extension host with pid 124994 started
-2025-08-28 16:36:28.884 [info] Skipping acquiring lock for /home/lesi-nedo/.config/Code/User/workspaceStorage/c0fea1d3d8c79e85d33a63f41357cf36.
-2025-08-28 16:36:28.904 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
-2025-08-28 16:36:28.940 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
-2025-08-28 16:36:28.944 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2025-08-28 16:36:28.986 [info] Eager extensions activated
-2025-08-28 16:36:28.988 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2025-08-28 16:36:28.989 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2025-08-28 16:36:31.822 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
