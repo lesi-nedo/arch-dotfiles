@@ -14,8 +14,9 @@ go
 .dotfiles/objects
 .dotfiles
 nohup.out
-bash_history
-bash_logout
+.bash_history
+.bash_logout
+.gitconfig
 .dotnet
 .config/Code
 .config/pulse
