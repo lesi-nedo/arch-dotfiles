@@ -1,0 +1,7 @@
+debtap
+qimgv-git
+qimgv-git-debug
+ty-debug
+visual-studio-code-bin
+yay
+yay-debug
