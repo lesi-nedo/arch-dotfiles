@@ -1,0 +1,5 @@
+qimgv-git
+qimgv-git-debug
+ty-debug
+yay
+yay-debug
