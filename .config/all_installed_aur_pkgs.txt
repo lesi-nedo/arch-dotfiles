@@ -1,3 +1,5 @@
+anyrun-git
+anyrun-git-debug
 debtap
 google-breakpad
 gpu-screen-recorder

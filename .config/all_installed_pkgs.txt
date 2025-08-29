@@ -1,4 +1,5 @@
 amd-ucode 20250808-1
+anyrun-git r216.af1ffe4-1
 base 3-2
 base-devel 1-2
 bluez 5.83-1
@@ -34,9 +35,9 @@ kitty 0.42.2-1
 less 1:679-1
 libpulse 17.0+r43+g3e2bb8a1e-1
 libva-utils 2.22.0-1
-linux 6.16.3.arch1-1
+linux 6.16.4.arch1-1
 linux-firmware 20250808-1
-linux-headers 6.16.3.arch1-1
+linux-headers 6.16.4.arch1-1
 man-db 2.13.1-1
 matugen-git 2.4.1.r87.gb99097c-1
 mesa-utils 9.0.0-7
@@ -44,7 +45,7 @@ mpv 1:0.40.0-5
 neovim 0.11.3-1
 network-manager-applet 1.36.0-1
 networkmanager 1.54.0-1
-nvidia 580.76.05-6
+nvidia 580.76.05-7
 nvidia-prime 1.0-5
 nvidia-settings 580.76.05-1
 nvidia-utils 580.76.05-4
