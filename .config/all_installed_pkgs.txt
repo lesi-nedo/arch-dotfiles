@@ -57,9 +57,10 @@ pipewire-jack 1:1.4.7-1
 pipewire-pulse 1:1.4.7-1
 power-profiles-daemon 0.30-1
 python-gobject 3.52.3-3
+qbittorrent 5.1.2-1
 qimgv-git 1.0.2.r179.ga8e335b-1
 qt5-wayland 5.15.17+kde+r57-1
-qt6-5compat 6.9.1-1
+qt6-5compat 6.9.2-1
 quickshell-git 0.2.0.r3.gf7597cd-1
 rofi-wayland 1.7.9.1-1
 sof-firmware 2025.05.1-1
