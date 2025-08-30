@@ -11,6 +11,7 @@ cliphist 1:0.6.1-1
 cmake 4.1.1-1
 ddcutil 2.2.1-1
 debtap 3.6.3-1
+dosfstools 4.2-5
 efibootmgr 18-3
 eza 0.23.0-1
 fd 10.3.0-1
