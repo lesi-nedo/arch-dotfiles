@@ -74,6 +74,7 @@ vim 9.1.1623-1
 visual-studio-code-bin 1.103.2-1
 waybar 0.14.0-1
 wget 1.25.0-2
+wireless-regdb 2025.07.10-1
 wireplumber 0.5.10-1
 wlsunset 0.4.0-1
 xdg-desktop-portal-gtk 1.15.3-1
