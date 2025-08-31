@@ -22,3 +22,15 @@ nohup.out
 .config/pulse
 .config/dconf
 .git-credentials
+nedo
+.zcompdump
+.histfile
+.nv
+Desktop
+Documents
+Music
+nedo
+Public
+Templates
+Videos
+.ssh

@@ -1,0 +1,11 @@
+[Unit]
+Description=Run save-packgs periodically
+
+[Timer]
+OnBootSec=5m
+OnUnitActiveSec=12h
+Persistent=true
+Unit=save-packgs.service
+
+[Install]
+WantedBy=timers.target

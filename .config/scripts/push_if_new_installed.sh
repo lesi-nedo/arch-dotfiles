@@ -1,34 +1,62 @@
 #!/usr/bin/env bash
-if [ -z "$HOME" ]; then
+set -euo pipefail
+IFS=$'\n\t'
+
+if [ -z "${HOME:-}" ]; then
   HOME=$(/usr/bin/env bash -c 'echo $HOME')
 fi
 
-FILE_WITH_10_LAST_INSTALLED_PKG="$HOME/.config/last_installed_pkgs.txt"
-LAST_10_LINES=$(grep "\[ALPM\] installed" /var/log/pacman.log | tail -n 10)
-PUSH_WITH_NEW_PACKAGES=0
+PACLOG="/var/log/pacman.log"
 FILE_WITH_ALL_PACMAN_PKGS="$HOME/.config/all_installed_pkgs.txt"
 FILE_WITH_ALL_AUR_PKGS="$HOME/.config/all_installed_aur_pkgs.txt"
-dotfiles="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
 
-if [ ! -f "$FILE_WITH_10_LAST_INSTALLED_PKG" ]; then
-    touch "$FILE_WITH_10_LAST_INSTALLED_PKG"
-    echo "$LAST_10_LINES" > "$FILE_WITH_10_LAST_INSTALLED_PKG"
-    PUSH_WITH_NEW_PACKAGES=1
-else
-    if ! diff <(echo "$LAST_10_LINES") "$FILE_WITH_10_LAST_INSTALLED_PKG" &> /dev/null; then
-        echo "$LAST_10_LINES" > "$FILE_WITH_10_LAST_INSTALLED_PKG"
-        PUSH_WITH_NEW_PACKAGES=1
+dotfiles() {
+  git --git-dir="$HOME/.dotfiles" --work-tree="$HOME" "$@"
+}
+
+
+if ! git --git-dir="$HOME/.dotfiles" rev-parse --is-bare-repository >/dev/null 2>&1; then
+  echo "Error: $HOME/.dotfiles is not a valid bare Git repository."
+  exit 1
+fi
+
+# Check if variables are defined and files exist
+for file in "$FILE_WITH_ALL_PACMAN_PKGS" "$FILE_WITH_ALL_AUR_PKGS"; do
+  if [ -z "$file" ]; then
+    echo "Error: One or more file variables are undefined."
+    exit 1
+  fi
+  if [ ! -f "$file" ]; then
+    echo "Error: File $file does not exist."
+    exit 1
+  fi
+done
+
+mkdir -p "$HOME/.config"
+
+if [[ ! -r "$PACLOG" ]]; then
+  echo "Pacman log not readable: $PACLOG"
+  exit 0
+fi
+
+
+pacman -Qe  > "$FILE_WITH_ALL_PACMAN_PKGS"
+pacman -Qqm > "$FILE_WITH_ALL_AUR_PKGS" || true
+# Only commit if these files actually changed in the repo
+if ! dotfiles diff --quiet  -- "$FILE_WITH_ALL_PACMAN_PKGS" "$FILE_WITH_ALL_AUR_PKGS"; then
+    echo "New packages installed/deleted; refreshing package lists…"
+    dotfiles add "$FILE_WITH_ALL_PACMAN_PKGS" "$FILE_WITH_ALL_AUR_PKGS"
+    dotfiles commit -m "Update installed packages $(date -Iseconds)" || true
+    # Skip push if offline
+    if ping -c1 -W3 github.com >/dev/null 2>&1 || dotfiles ls-remote -q origin >/dev/null 2>&1; then
+        dotfiles push -q origin main || true
+        echo "Pushed updates."
+    else
+        echo "Network unavailable; commit saved locally."
     fi
+else
+    echo "No changes to commit."
 fi
 
-if [ $PUSH_WITH_NEW_PACKAGES -eq 1 ]; then
-    echo "New packages installed:"
-    echo "Saving to $FILE_WITH_ALL_PACMAN_PKGS and $FILE_WITH_ALL_AUR_PKGS, then pushing to remote."
-    ALL_PKGS=$(pacman -Qe)
-    ALL_AUR_PKGS=$(pacman -Qqm)
-    echo "$ALL_PKGS" > "$FILE_WITH_ALL_PACMAN_PKGS"
-    echo "$ALL_AUR_PKGS" > "$FILE_WITH_ALL_AUR_PKGS"
-    $dotfiles add "$FILE_WITH_ALL_PACMAN_PKGS" "$FILE_WITH_ALL_AUR_PKGS"
-    $dotfiles commit -m "Update installed packages"
-    $dotfiles push origin main
-fi
+
+
