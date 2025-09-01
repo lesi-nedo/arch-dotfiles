@@ -10,15 +10,13 @@ cliphist 1:0.6.1-1
 cmake 4.1.1-1
 ddcutil 2.2.1-1
 debtap 3.6.3-1
+dkms 3.2.1-1
 dosfstools 4.2-5
 efibootmgr 18-3
 eza 0.23.1-1
 fd 10.3.0-1
 ffmpegthumbnailer 2.2.3-3
 firefox 142.0.1-1
-foot 1.23.1-1
-fzf 0.65.2-1
-ghostty 1.1.3-1
 git 2.51.0-1
 git-filter-repo 2.47.0-2
 gpu-screen-recorder r1154.a1ef9ee-1
@@ -28,7 +26,6 @@ gst-plugin-pipewire 1:1.4.7-1
 gvfs 1.57.2-4
 gvfs-afc 1.57.2-4
 gvfs-mtp 1.57.2-4
-hypridle 0.1.7-1
 hyprland 0.50.1-1
 hyprlock 0.9.1-1
 hyprpaper 0.7.5-3
@@ -95,4 +92,3 @@ yazi 25.5.31-2
 zip 3.0-11
 zram-generator 1.2.1-1
 zsh 5.9-5
-zsh-completions 0.35.0-3
