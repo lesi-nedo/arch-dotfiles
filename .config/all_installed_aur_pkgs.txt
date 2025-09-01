@@ -1,4 +1,3 @@
-anyrun-git
 anyrun-git-debug
 debtap
 google-breakpad
