@@ -55,8 +55,8 @@ neovim 0.11.4-1
 network-manager-applet 1.36.0-1
 networkmanager 1.54.0-1
 nvidia-lts 1:580.76.05-5
+nvidia-prime 1.0-5
 nvidia-settings 580.76.05-1
-nvidia-utils 580.76.05-4
 pacman-contrib 1.13.0-1
 pavucontrol 1:6.1-1
 pipewire 1:1.4.7-1
