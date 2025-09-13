@@ -1,0 +1,12 @@
+2025/09/13-12:44:22.211 5 Reusing MANIFEST /home/lesi-nedo/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/09/13-12:44:22.213 5 Recovering log #141
+2025/09/13-12:44:22.214 5 Reusing old log /home/lesi-nedo/.config/google-chrome/Default/Local Storage/leveldb/000141.log 
+2025/09/13-15:29:48.643 7 Level-0 table #146: started
+2025/09/13-15:29:48.644 7 Level-0 table #146: 12924 bytes OK
+2025/09/13-15:29:48.646 7 Delete type=0 #141
+2025/09/13-15:50:49.896 7 Level-0 table #148: started
+2025/09/13-15:50:49.905 7 Level-0 table #148: 17663 bytes OK
+2025/09/13-15:50:49.907 7 Delete type=0 #145
+2025/09/13-16:35:54.088 7 Level-0 table #150: started
+2025/09/13-16:35:54.097 7 Level-0 table #150: 21368 bytes OK
+2025/09/13-16:35:54.099 7 Delete type=0 #147

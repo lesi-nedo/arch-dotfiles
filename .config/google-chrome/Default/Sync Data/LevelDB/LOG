@@ -1,0 +1,18 @@
+2025/09/13-12:44:22.202 c3e Reusing MANIFEST /home/lesi-nedo/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/09/13-12:44:22.203 c3e Recovering log #69
+2025/09/13-12:44:22.205 c3e Reusing old log /home/lesi-nedo/.config/google-chrome/Default/Sync Data/LevelDB/000069.log 
+2025/09/13-12:50:22.593 c43 Level-0 table #73: started
+2025/09/13-12:50:22.602 c43 Level-0 table #73: 131378 bytes OK
+2025/09/13-12:50:22.604 c43 Delete type=0 #69
+2025/09/13-16:29:39.097 c3e Level-0 table #75: started
+2025/09/13-16:29:39.106 c3e Level-0 table #75: 102392 bytes OK
+2025/09/13-16:29:39.108 c3e Delete type=0 #72
+2025/09/13-16:29:39.108 c3e Compacting 4@0 + 1@1 files
+2025/09/13-16:29:39.110 c3e Generated table #76@0: 209 keys, 19995 bytes
+2025/09/13-16:29:39.110 c3e Compacted 4@0 + 1@1 files => 19995 bytes
+2025/09/13-16:29:39.111 c3e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/13-16:29:39.111 c3e Delete type=2 #65
+2025/09/13-16:29:39.111 c3e Delete type=2 #67
+2025/09/13-16:29:39.111 c3e Delete type=2 #70
+2025/09/13-16:29:39.111 c3e Delete type=2 #73
+2025/09/13-16:29:39.111 c3e Delete type=2 #75

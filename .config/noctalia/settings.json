@@ -4,10 +4,11 @@
         "enableClipboardHistory": true,
         "pinnedExecs": [
         ],
-        "position": "center"
+        "position": "center",
+        "useApp2Unit": false
     },
     "audio": {
-        "cavaFrameRate": 240,
+        "cavaFrameRate": 60,
         "mprisBlacklist": [
         ],
         "preferredPlayer": "",
@@ -17,36 +18,95 @@
         "volumeStep": 5
     },
     "bar": {
-        "alwaysShowBatteryPercentage": true,
-        "backgroundOpacity": 0.9400000000000001,
+        "alwaysShowBatteryPercentage": false,
+        "backgroundOpacity": 0,
+        "floating": false,
+        "marginBottom": 16,
+        "marginLeft": 16,
+        "marginRight": 16,
+        "marginTop": 16,
         "monitors": [
-            "eDP-1"
         ],
         "position": "top",
+        "rounding": 12,
         "showActiveWindowIcon": true,
         "showNetworkStats": false,
-        "showWorkspaceLabel": "index",
+        "showWorkspaceLabel": "none",
+        "useDistroLogo": false,
         "widgets": {
             "center": [
-                "Workspace"
+                {
+                    "hideUnoccupied": false,
+                    "id": "Workspace",
+                    "labelMode": "index"
+                }
             ],
             "left": [
-                "SystemMonitor",
-                "ActiveWindow",
-                "MediaMini"
+                {
+                    "id": "SystemMonitor",
+                    "showCpuTemp": true,
+                    "showCpuUsage": true,
+                    "showDiskUsage": false,
+                    "showGpuTemp": false,
+                    "showMemoryAsPercent": false,
+                    "showMemoryUsage": true,
+                    "showNetworkStats": false
+                },
+                {
+                    "id": "ActiveWindow",
+                    "showIcon": true
+                },
+                {
+                    "id": "MediaMini",
+                    "showAlbumArt": false,
+                    "showVisualizer": false,
+                    "visualizerType": "linear"
+                }
             ],
             "right": [
-                "ScreenRecorderIndicator",
-                "Tray",
-                "NotificationHistory",
-                "WiFi",
-                "Bluetooth",
-                "Battery",
-                "Volume",
-                "Brightness",
-                "NightLight",
-                "Clock",
-                "SidePanelToggle"
+                {
+                    "id": "ScreenRecorderIndicator"
+                },
+                {
+                    "id": "Tray"
+                },
+                {
+                    "hideWhenZero": true,
+                    "id": "NotificationHistory",
+                    "showUnreadBadge": true
+                },
+                {
+                    "id": "WiFi"
+                },
+                {
+                    "id": "Bluetooth"
+                },
+                {
+                    "alwaysShowPercentage": false,
+                    "id": "Battery",
+                    "warningThreshold": 30
+                },
+                {
+                    "alwaysShowPercentage": false,
+                    "id": "Volume"
+                },
+                {
+                    "alwaysShowPercentage": false,
+                    "id": "Brightness"
+                },
+                {
+                    "id": "NightLight"
+                },
+                {
+                    "displayFormat": "time-date",
+                    "id": "Clock",
+                    "reverseDayMonth": false,
+                    "use12HourClock": false
+                },
+                {
+                    "id": "SidePanelToggle",
+                    "useDistroLogo": false
+                }
             ]
         }
     },
@@ -54,13 +114,15 @@
         "brightnessStep": 5
     },
     "colorSchemes": {
-        "darkMode": true,
-        "predefinedScheme": "",
-        "useWallpaperColors": true
+        "darkMode": false,
+        "predefinedScheme": "Tokyo Night",
+        "useWallpaperColors": false
     },
     "dock": {
         "autoHide": false,
+        "backgroundOpacity": 1,
         "exclusive": false,
+        "floatingRatio": 1,
         "monitors": [
         ]
     },
@@ -69,8 +131,13 @@
         "avatarImage": "/home/lesi-nedo/.face",
         "dimDesktop": false,
         "radiusRatio": 1,
-        "showScreenCorners": false,
-        "useDistroLogoForSidepanel": false
+        "screenRadiusRatio": 1,
+        "showScreenCorners": true
+    },
+    "hooks": {
+        "darkModeChange": "",
+        "enabled": true,
+        "wallpaperChange": ""
     },
     "location": {
         "name": "Pisa",
@@ -80,6 +147,7 @@
         "useFahrenheit": false
     },
     "matugen": {
+        "enableUserTemplates": false,
         "foot": false,
         "fuzzel": false,
         "ghostty": false,
@@ -98,37 +166,47 @@
         "autoSchedule": true,
         "dayTemp": "6500",
         "enabled": true,
+        "forced": false,
         "manualSunrise": "06:30",
         "manualSunset": "18:30",
         "nightTemp": "4000"
     },
     "notifications": {
+        "doNotDisturb": false,
+        "lastSeenTs": 1757772233000,
         "monitors": [
-            "eDP-1"
         ]
     },
     "screenRecorder": {
         "audioCodec": "opus",
         "audioSource": "default_output",
         "colorRange": "limited",
-        "directory": "~/Videos",
+        "directory": "/home/lesi-nedo/Videos",
         "frameRate": 60,
         "quality": "very_high",
         "showCursor": true,
         "videoCodec": "h264",
         "videoSource": "portal"
     },
+    "settingsVersion": 1,
     "ui": {
         "fontBillboard": "Inter",
         "fontDefault": "Roboto",
-        "fontFixed": "DejaVu Sans Mono",
+        "fontFixed": "JetBrains Mono Medium",
         "idleInhibitorEnabled": false,
         "monitorsScaling": [
+            {
+                "name": "eDP-1",
+                "scale": 1
+            }
         ]
     },
     "wallpaper": {
-        "directory": "/usr/share/wallpapers",
+        "directory": "/home/lesi-nedo/Pictures/Wallpapers",
         "enableMultiMonitorDirectories": false,
+        "enabled": false,
+        "fillColor": "#000000",
+        "fillMode": "crop",
         "monitors": [
         ],
         "randomEnabled": false,

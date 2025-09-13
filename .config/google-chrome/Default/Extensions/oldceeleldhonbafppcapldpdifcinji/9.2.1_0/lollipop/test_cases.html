@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Lollipop Test Cases</title>
+		<style>
+			body {
+				font-family: sans-serif;
+			}
+			section {
+				margin-bottom: 100px;
+			}
+			h1 {
+				margin-bottom: 80px;
+			}
+			h2 {
+				font-size: 18px;
+			}
+
+			p {
+				font-size: 14px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Lollipop Test Cases</h1>
+
+		<section id="parent-overflow-1">
+			<h2>Textfield with "overflow:visible" and parent with "overflow:auto"</h2>
+			<p>
+				<strong>Test</strong>: Focus text field, scroll down, put caret at end of text. Scroll up/down. Check if
+				Lollipop correctly disappears when scrolled out of view.
+			</p>
+			<div class="parent" style="overflow: auto; width: 400px; height: 180px; border: 1px solid gray">
+				<div class="text-field" style="overflow: visible; padding: 10px" contenteditable="true">
+					Vietnam’s Deputy Prime Minister Ho Duc Phoc is expected to meet with Treasury Secretary Scott
+					Bessent in Washington, DC, on Wednesday, as the Trump administration continues negotiations with
+					several countries regarding the president’s tariffs, a person familiar with the meeting told CNN.
+					Bessent has also been in talks with representatives of Japan and South Korea, in addition to
+					multiple other countries. Vietnam is among the nations hit with the highest “reciprocal” tariff
+					rates of 46%, which took effect today, according to the new tariff regime the Trump administration
+					unveiled last week. The tariffs that went into place Saturday and today came with several notable
+					exclusions: Steel, aluminum and autos (three areas already subjected to their tariffs); copper and
+					lumber; plus pharmaceuticals, semiconductors, and critical minerals. Those could be next, President
+					Donald Trump has warned. Copper and critical minerals: Copper is a critical cog in the ongoing
+					electrification of America and industries such as defense. The US imports about 50% of the copper it
+					uses, and demand is only expected to grow, especially as energy-consuming industries such as
+					artificial intelligence and blockchain boom.
+				</div>
+			</div>
+		</section>
+
+		<section id="parent-overflow-2">
+			<h2>Textfield with "overflow:visible; height:inherit;" and parent with "overflow:auto"</h2>
+			<p>
+				<strong>Test</strong>: Focus text field, scroll down, put caret at end of text. Check if it's visible.
+				[<a href="https://quillbot.atlassian.net/browse/LOL-310" target="_blank">Bug</a>]
+			</p>
+			<div class="parent" style="overflow: auto; width: 400px; height: 180px; border: 1px solid gray">
+				<div
+					class="text-field"
+					style="overflow: visible; height: inherit; outline: 0; padding: 10px"
+					contenteditable="true"
+				>
+					Vietnam’s Deputy Prime Minister Ho Duc Phoc is expected to meet with Treasury Secretary Scott
+					Bessent in Washington, DC, on Wednesday, as the Trump administration continues negotiations with
+					several countries regarding the president’s tariffs, a person familiar with the meeting told CNN.
+					Bessent has also been in talks with representatives of Japan and South Korea, in addition to
+					multiple other countries. Vietnam is among the nations hit with the highest “reciprocal” tariff
+					rates of 46%, which took effect today, according to the new tariff regime the Trump administration
+					unveiled last week. The tariffs that went into place Saturday and today came with several notable
+					exclusions: Steel, aluminum and autos (three areas already subjected to their tariffs); copper and
+					lumber; plus pharmaceuticals, semiconductors, and critical minerals. Those could be next, President
+					Donald Trump has warned. Copper and critical minerals: Copper is a critical cog in the ongoing
+					electrification of America and industries such as defense. The US imports about 50% of the copper it
+					uses, and demand is only expected to grow, especially as energy-consuming industries such as
+					artificial intelligence and blockchain boom.
+				</div>
+			</div>
+		</section>
+	</body>
+</html>

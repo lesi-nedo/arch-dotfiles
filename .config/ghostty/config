@@ -1,0 +1,107 @@
+## appearance
+theme = tokyonight-storm 
+background-blur-radius = 40
+font-size = 14
+font-family-bold = JetBrains Mono NL Bold
+font-family-bold-italic = JetBrains Mono NL Bold Italic
+font-family-italic = JetBrains Mono NL Italic
+font-family = JetBrains Mono NL
+#
+## window controls
+confirm-close-surface = true
+window-title-font-family = VictorMono NFM Italic
+window-decoration = true
+window-padding-x = 2
+window-padding-y = 2
+window-padding-balance = true
+window-save-state = always
+
+## auto update settings
+auto-update = download
+auto-update-channel = stable
+#
+## extras
+shell-integration-features = true
+focus-follows-mouse = true
+link-url = true
+#
+## custom keybindings
+keybind = alt+r=reload_config 
+keybind = alt+i=inspector:toggle
+keybind = alt+f=toggle_fullscreen
+#
+## quick terminal (global keybinding) 
+#keybind = global:alt+grave_accent=toggle_quick_terminal
+#
+## tmux-like prefix controlled keybindings
+keybind = alt+b>x=close_surface
+keybind = alt+b>c=new_tab 
+keybind = alt+b>n=new_window
+keybind = alt+b>f=toggle_fullscreen
+#
+## tab navigation
+keybind = alt+b>1=goto_tab:1
+keybind = alt+b>2=goto_tab:2
+keybind = alt+b>3=goto_tab:3
+keybind = alt+b>4=goto_tab:4
+keybind = alt+b>5=goto_tab:5
+keybind = alt+b>6=goto_tab:6
+keybind = alt+b>7=goto_tab:7
+keybind = alt+b>8=goto_tab:8
+keybind = alt+b>9=goto_tab:9
+#
+## splits
+keybind = alt+b>\=new_split:right
+keybind = alt+b>-=new_split:down
+keybind = alt+b>e=equalize_splits
+keybind = alt+b>z=toggle_split_zoom
+#
+## split navigation 
+keybind = alt+b>h=goto_split:left
+keybind = alt+b>j=goto_split:bottom
+keybind = alt+b>k=goto_split:top
+keybind = alt+b>l=goto_split:right
+keybind = alt+b>left=goto_split:left
+keybind = alt+b>down=goto_split:bottom
+keybind = alt+b>up=goto_split:top
+keybind = alt+b>right=goto_split:right
+#
+
+#
+#       ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗████████╗██╗   ██╗
+#      ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝╚══██╔══╝╚██╗ ██╔╝
+#      ██║  ███╗███████║██║   ██║███████╗   ██║      ██║    ╚████╔╝
+#      ██║   ██║██╔══██║██║   ██║╚════██║   ██║      ██║     ╚██╔╝
+#      ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║      ██║      ██║
+#       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝      ╚═╝      ╚═╝
+#
+#                      Ghostty Terminal Config 👻
+#
+
+# Do not restore window state on startup
+window-save-state = never
+
+# --- Shell integration & appearance ---
+# Enable zsh shell integration
+shell-integration = zsh
+# Disable shell integration cursor changes
+shell-integration-features = no-cursor
+# Set background to 90% opacity
+background-opacity = 0.94
+# Balance extra padding in viewport
+window-padding-balance = true
+# Disable blinking cursor
+cursor-style-blink = false
+
+# --- Keybindings for cursor movement ---
+# Alt-key bindings (beginning/end of line)
+keybind = alt+h=text:\x01
+keybind = alt+l=text:\x05
+
+# Cmd-key bindings (beginning/end of line)
+keybind = ctrl+left=text:\x01
+keybind = ctrl+right=text:\x05
+
+# Alt-arrow bindings (word movements)
+keybind = alt+left=esc:b
+keybind = alt+right=esc:f

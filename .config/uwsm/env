@@ -1,0 +1,10 @@
+# export LIBVA_DRIVER_NAME=nvidia
+# export __GLX_VENDOR_LIBRARY_NAME=nvidia
+export DRI_PRIME=0
+export ELECTRON_OZONE_PLATFORM_HINT=auto
+export QT_QPA_PLATFORM=wayland
+export QT_AUTO_SCREEN_SCALE_FACTOR=1
+export QT_QPA_PLATFORMTHEME=qt5ct:qt6ct
+# export __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/50_mesa.json
+# export __GLX_VENDOR_LIBRARY_NAME=mesa
+export ELECTRON_ENABLE_NATIVE_WINDOW_OPEN=1

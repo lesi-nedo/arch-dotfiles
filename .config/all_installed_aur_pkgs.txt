@@ -1,8 +1,0 @@
-debtap
-gpu-screen-recorder
-matugen-git
-qimgv-git
-ttf-material-symbols-variable-git
-visual-studio-code-bin
-yay
-yay-debug
