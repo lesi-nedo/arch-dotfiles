@@ -12,6 +12,7 @@ bluez-utils 5.83-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.16.1-1
 cava 0.10.4-3
+ccache 4.11.3-2
 cliphist 1:0.6.1-1
 ddcutil 2.2.1-1
 dkms 3.2.1-1
@@ -24,8 +25,9 @@ fastfetch 2.52.0-1
 fcft 3.3.2-1
 fd 10.3.0-1
 feh 3.11.2-1
+filezilla 3.69.3-1
 fuzzel 1.13.1-1
-ghostscript 10.05.1-3
+ghostscript 10.06.0-1
 ghostty 1.1.3-1
 git 2.51.0-1
 git-delta 0.18.2-4
@@ -70,6 +72,7 @@ npm 11.6.0-1
 nvidia-open-dkms 580.82.09-1
 nvidia-prime 1.0-5
 nvidia-utils 580.82.09-1
+openmpi 5.0.8-3
 openssh 10.0p1-4
 papirus-icon-theme 20250501-1
 pipewire 1:1.4.8-1
