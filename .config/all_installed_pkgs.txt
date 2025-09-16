@@ -43,6 +43,7 @@ hypridle 0.1.7-1
 hyprland 0.51.0-2
 hyprland-protocols 0.6.4-1
 hyprlock 0.9.1-1
+hyprpaper 0.7.5-3
 hyprpolkitagent 0.1.3-1
 imagemagick 7.1.2.3-1
 inter-font 4.1-1
@@ -65,8 +66,9 @@ mesa-utils 9.0.0-7
 mpv 1:0.40.0-5
 neovim 0.11.4-1
 networkmanager 1.54.0-1
-nodejs 24.7.0-1
+nodejs 24.8.0-1
 noto-fonts 1:2025.09.01-1
+noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.048-1
 npm 11.6.0-1
 nvidia-open-dkms 580.82.09-1
