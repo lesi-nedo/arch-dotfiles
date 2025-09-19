@@ -26,6 +26,7 @@ fcft 3.3.2-1
 fd 10.3.0-1
 feh 3.11.2-1
 filezilla 3.69.3-1
+fuse2 2.9.9-5
 fuzzel 1.13.1-1
 ghostscript 10.06.0-1
 ghostty 1.2.0-1
@@ -62,6 +63,7 @@ linux-lts-headers 6.12.47-1
 lua51 5.1.5-13
 luarocks 3.12.2-1
 matugen-git 2.4.1.r103.g8ea1190-1
+mesa-demos 9.0.0-7
 mesa-utils 9.0.0-7
 mpv 1:0.40.0-5
 neovim 0.11.4-1
