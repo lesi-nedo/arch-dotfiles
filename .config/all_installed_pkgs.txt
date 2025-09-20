@@ -50,6 +50,7 @@ imagemagick 7.1.2.3-1
 inter-font 4.1-1
 iwd 3.9-1
 jdk-openjdk 25.u36-1
+jq 1.8.1-1
 lazygit 0.55.1-1
 less 1:679-1
 libpulse 17.0+r43+g3e2bb8a1e-1
