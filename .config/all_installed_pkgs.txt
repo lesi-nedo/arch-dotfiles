@@ -7,8 +7,8 @@ base 3-2
 base-devel 1-2
 bat 0.25.0-4
 biber 1:2.21-2
-bluez 5.83-1
-bluez-utils 5.83-1
+bluez 5.84-1
+bluez-utils 5.84-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.16.1-1
 cava 0.10.6-1
