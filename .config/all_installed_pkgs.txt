@@ -32,7 +32,7 @@ ghostscript 10.06.0-1
 ghostty 1.2.0-1
 git 2.51.0-1
 git-delta 0.18.2-4
-github-cli 2.79.0-1
+github-cli 2.80.0-1
 gnome-keyring 1:48.0-1
 google-chrome 140.0.7339.185-1
 gpu-screen-recorder r1175.cb8104d-1
