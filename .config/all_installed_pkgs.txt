@@ -21,10 +21,10 @@ efibootmgr 18-3
 ethtool 1:6.15-1
 extramaus 20121220-3
 eza 0.23.3-1
-fastfetch 2.52.0-1
+fastfetch 2.53.0-1
 fcft 3.3.2-1
 fd 10.3.0-1
-feh 3.11.2-1
+feh 3.11.2-2
 filezilla 3.69.3-1
 fuse2 2.9.9-5
 fuzzel 1.13.1-1
@@ -48,7 +48,7 @@ hyprpaper 0.7.5-3
 hyprpolkitagent 0.1.3-1
 imagemagick 7.1.2.3-2
 inter-font 4.1-1
-iwd 3.9-1
+iwd 3.10-1
 jdk-openjdk 25.u36-1
 jq 1.8.1-1
 lazygit 0.55.1-1
@@ -59,8 +59,8 @@ limine-mkinitcpio-hook 1.24.0-1
 linux 6.16.8.arch3-1
 linux-firmware 20250917-1
 linux-headers 6.16.8.arch3-1
-linux-lts 6.12.48-1
-linux-lts-headers 6.12.48-1
+linux-lts 6.12.49-1
+linux-lts-headers 6.12.49-1
 lua51 5.1.5-13
 luarocks 3.12.2-1
 matugen-git 2.4.1.r103.g8ea1190-1
@@ -73,7 +73,7 @@ nodejs 24.8.0-1
 noto-fonts 1:2025.09.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
-npm 11.6.0-1
+npm 11.6.1-1
 nvidia-open-dkms 580.82.09-1
 nvidia-prime 1.0-5
 nvidia-utils 580.82.09-1
@@ -86,6 +86,8 @@ pipewire-alsa 1:1.4.8-2
 pipewire-jack 1:1.4.8-2
 pipewire-libcamera 1:1.4.8-2
 pipewire-pulse 1:1.4.8-2
+postgresql 17.5-5
+postgresql-old-upgrade 16.9-2
 power-profiles-daemon 0.30-1
 python-pipx 1.7.1-2
 python-pynvim 0.6.0-1
