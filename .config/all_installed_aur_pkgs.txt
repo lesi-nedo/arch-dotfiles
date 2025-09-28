@@ -15,3 +15,4 @@ tlrc
 ttf-material-symbols-variable-git
 visual-studio-code-bin
 yay
+yay-debug

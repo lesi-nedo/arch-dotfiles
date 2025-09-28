@@ -34,8 +34,8 @@ git 2.51.0-1
 git-delta 0.18.2-4
 github-cli 2.80.0-1
 gnome-keyring 1:48.0-1
-google-chrome 140.0.7339.185-1
-gpu-screen-recorder r1175.cb8104d-1
+google-chrome 140.0.7339.207-1
+gpu-screen-recorder r1176.c11dd77-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.8-2
 gtk3 1:3.24.50-1
@@ -78,7 +78,7 @@ nvidia-open-dkms 580.82.09-1
 nvidia-prime 1.0-5
 nvidia-utils 580.82.09-1
 okular 25.08.1-1
-openmpi 5.0.8-4
+openmpi 5.0.8-5
 openssh 10.0p1-5
 papirus-icon-theme 20250501-1
 pipewire 1:1.4.8-2
@@ -100,7 +100,7 @@ qt5-wayland 5.15.17+kde+r57-1
 qt5ct 1.9-1
 qt6-5compat 6.9.2-1
 qt6-wayland 6.9.2-1
-qt6ct 0.10-5
+qt6ct 0.11-1
 quickshell-git 0.2.0.r7.g6eb1255-1
 ripgrep 14.1.1-1
 rsync 3.4.1-2
@@ -129,7 +129,7 @@ ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.012-1
 uwsm 0.23.3-1
-visual-studio-code-bin 1.104.1-1
+visual-studio-code-bin 1.104.2-1
 wev 1.1.0-1
 wget 1.25.0-2
 wireplumber 0.5.11-1
@@ -137,7 +137,7 @@ wlsunset 0.4.0-1
 xdg-desktop-portal 1.20.3-1
 xdg-desktop-portal-gtk 1.15.3-1
 xdg-desktop-portal-hyprland 1.3.10-1
-yay 12.5.0-1
+yay 12.5.2-2
 yazi 25.5.31-2
 zoxide 0.9.8-2
 zram-generator 1.2.1-1
