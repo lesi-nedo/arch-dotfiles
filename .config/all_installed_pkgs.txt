@@ -86,6 +86,7 @@ pipewire-alsa 1:1.4.8-2
 pipewire-jack 1:1.4.8-2
 pipewire-libcamera 1:1.4.8-2
 pipewire-pulse 1:1.4.8-2
+playerctl 2.4.1-4
 postgresql 17.5-5
 postgresql-old-upgrade 16.9-2
 power-profiles-daemon 0.30-1
