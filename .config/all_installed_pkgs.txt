@@ -38,7 +38,7 @@ google-chrome 140.0.7339.207-1
 gpu-screen-recorder r1176.c11dd77-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.8-2
-gtk3 1:3.24.50-1
+gtk3 1:3.24.51-1
 gtk4 1:4.20.1-1
 hypridle 0.1.7-1
 hyprland 0.51.1-1
@@ -87,8 +87,8 @@ pipewire-jack 1:1.4.8-2
 pipewire-libcamera 1:1.4.8-2
 pipewire-pulse 1:1.4.8-2
 playerctl 2.4.1-4
-postgresql 17.5-5
-postgresql-old-upgrade 16.9-2
+postgresql 17.6-1
+postgresql-old-upgrade 16.10-1
 power-profiles-daemon 0.30-1
 python-pipx 1.7.1-2
 python-pynvim 0.6.0-1
