@@ -32,9 +32,9 @@ ghostscript 10.06.0-1
 ghostty 1.2.0-1
 git 2.51.0-1
 git-delta 0.18.2-4
-github-cli 2.80.0-1
+github-cli 2.81.0-1
 gnome-keyring 1:48.0-1
-google-chrome 140.0.7339.207-1
+google-chrome 141.0.7390.54-1
 gpu-screen-recorder r1181.50fbee2-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.8-2
@@ -43,7 +43,7 @@ gtk4 1:4.20.2-1
 hypridle 0.1.7-1
 hyprland 0.51.1-1
 hyprland-protocols 0.6.4-1
-hyprlock 0.9.1-1
+hyprlock 0.9.2-1
 hyprpaper 0.7.5-3
 hyprpolkitagent 0.1.3-1
 imagemagick 7.1.2.3-2
@@ -55,10 +55,10 @@ lazygit 0.55.1-1
 less 1:679-1
 libpulse 17.0+r43+g3e2bb8a1e-1
 limine 10.0.1-1
-limine-mkinitcpio-hook 1.24.0-2
-linux 6.16.8.arch3-1
+limine-mkinitcpio-hook 1.24.0-3
+linux 6.16.10.arch1-1
 linux-firmware 20250917-1
-linux-headers 6.16.8.arch3-1
+linux-headers 6.16.10.arch1-1
 linux-lts 6.12.49-1
 linux-lts-headers 6.12.49-1
 lua51 5.1.5-13
@@ -79,7 +79,7 @@ nvidia-prime 1.0-5
 nvidia-utils 580.82.09-1
 okular 25.08.1-1
 openmpi 5.0.8-5
-openssh 10.0p1-5
+openssh 10.0p1-6
 papirus-icon-theme 20250501-1
 pipewire 1:1.4.8-2
 pipewire-alsa 1:1.4.8-2
@@ -92,7 +92,6 @@ postgresql-old-upgrade 16.10-1
 power-profiles-daemon 0.30-1
 python-pipx 1.8.0-1
 python-pynvim 0.6.0-1
-qbittorrent 5.1.2-1
 qpwgraph 0.9.5-1
 qt5-base 5.15.17+kde+r123-2
 qt5-imageformats 5.15.17+kde+r2-1
@@ -130,7 +129,7 @@ ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.012-1
 uwsm 0.23.3-1
-visual-studio-code-bin 1.104.2-1
+visual-studio-code-bin 1.104.3-1
 wev 1.1.0-1
 wget 1.25.0-2
 wireplumber 0.5.11-1
