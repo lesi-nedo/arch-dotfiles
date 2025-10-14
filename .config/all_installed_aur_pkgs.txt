@@ -2,6 +2,8 @@ adwaita-qt5-git
 adwaita-qt6-git
 asusctl
 asusctl-debug
+connect-tunnel
+connect-tunnel-debug
 downgrade
 extramaus
 google-breakpad
