@@ -57,6 +57,7 @@ jq 1.8.1-1
 lazygit 0.56.0-1
 less 1:685-1
 libpulse 17.0+r88+geee0e8f22-1
+libreoffice-fresh 25.8.2-4
 limine 10.2.1-1
 limine-mkinitcpio-hook 1.25.3-1
 linux 6.17.7.arch1-1
