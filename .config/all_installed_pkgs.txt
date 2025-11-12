@@ -32,6 +32,7 @@ fuse2 2.9.9-5
 fuzzel 1.13.1-1
 ghostscript 10.06.0-1
 ghostty 1.2.3-2
+gimp 3.0.6-2
 git 2.51.2-2
 git-delta 0.18.2-6
 github-cli 2.83.0-1
