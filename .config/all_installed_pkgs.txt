@@ -30,6 +30,7 @@ feh 3.11.2-2
 filezilla 3.69.4-1
 fuse2 2.9.9-5
 fuzzel 1.13.1-1
+gdb 16.3-1
 ghostscript 10.06.0-1
 ghostty 1.2.3-2
 gimp 3.0.6-2
