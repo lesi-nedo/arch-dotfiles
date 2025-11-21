@@ -28,13 +28,14 @@ fcft 3.3.2-1
 fd 10.3.0-1
 feh 3.11.2-2
 filezilla 3.69.5-1
+firefox 145.0.1-1
 fuse2 2.9.9-5
 fuzzel 1.13.1-1
 gdb 16.3-1
 ghostscript 10.06.0-1
 ghostty 1.2.3-2
 gimp 3.0.6-2
-git 2.51.2-2
+git 2.52.0-1
 git-delta 0.18.2-6
 github-cli 2.83.1-1
 gnome-keyring 1:48.0-1
@@ -59,7 +60,7 @@ jq 1.8.1-1
 lazygit 0.56.0-1
 less 1:685-1
 libpulse 17.0+r93+gbe2efb69b-1
-libreoffice-fresh 25.8.3-1
+libreoffice-fresh 25.8.3-2
 limine 10.3.0-1
 limine-mkinitcpio-hook 1.26.0-1
 linux 6.17.8.arch1-1
@@ -75,8 +76,8 @@ mesa-utils 9.0.0-7
 mpv 1:0.40.0-7
 mtpfs 1.1-5
 neovim 0.11.5-1
-networkmanager 1.54.1-1
-nodejs 25.2.0-1
+networkmanager 1.54.2-1
+nodejs 25.2.1-1
 noto-fonts 1:2025.11.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
@@ -124,6 +125,7 @@ spotify-launcher 0.6.3-2
 starship 1.24.1-1
 supergfxctl 5.2.7-2
 tectonic 0.15.0-4
+telegram-desktop 6.3.1-1
 texlive-basic 2025.2-2
 texlive-bibtexextra 2025.2-2
 texlive-binextra 2025.2-2
@@ -140,7 +142,7 @@ ttf-jetbrains-mono 2.304-2
 ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.013-1
-uwsm 0.24.2-1
+uwsm 0.24.3-2
 visual-studio-code-bin 1.105.1-1
 wev 1.1.0-1
 wget 1.25.0-3
