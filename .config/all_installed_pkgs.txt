@@ -125,7 +125,6 @@ spotify-launcher 0.6.3-2
 starship 1.24.1-1
 supergfxctl 5.2.7-2
 tectonic 0.15.0-4
-telegram-desktop 6.3.4-2
 texlive-basic 2025.2-2
 texlive-bibtexextra 2025.2-2
 texlive-binextra 2025.2-2
