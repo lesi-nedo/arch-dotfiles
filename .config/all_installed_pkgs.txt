@@ -3,6 +3,7 @@ adwaita-qt6-git 1.4.1.r29.g0a77436-1
 amd-ucode 20251125-1
 amdgpu_top 0.11.0-1
 android-file-transfer 4.5-2
+aquamarine 0.10.0-1
 asusctl 6.1.22-0.1
 base 3-2
 base-devel 1-2
