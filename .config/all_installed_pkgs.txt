@@ -114,6 +114,7 @@ qt6-quick3d 6.10.1-1
 qt6-tools 6.10.1-1
 qt6-wayland 6.10.1-1
 qt6ct 0.11-3
+quickshell 0.2.1-3
 ripgrep 15.1.0-1
 rsync 3.4.1-2
 slurp 1.5.0-1
