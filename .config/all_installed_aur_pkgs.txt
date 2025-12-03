@@ -6,13 +6,11 @@ connect-tunnel
 connect-tunnel-debug
 downgrade
 extramaus
-google-breakpad
 google-chrome
 gpu-screen-recorder
 gpu-screen-recorder-debug
 limine-mkinitcpio-hook
 matugen-git
-quickshell-git
 supergfxctl
 tlrc
 tlrc-debug
