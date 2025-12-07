@@ -58,7 +58,7 @@ inter-font 4.1-1
 iwd 3.10-1
 jdk-openjdk 25.0.1.u8-1
 jq 1.8.1-1
-lazygit 0.56.0-1
+lazygit 0.57.0-1
 less 1:685-1
 libpulse 17.0+r93+gbe2efb69b-1
 libreoffice-fresh 25.8.3-2
