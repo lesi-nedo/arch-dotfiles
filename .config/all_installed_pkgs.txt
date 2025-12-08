@@ -57,6 +57,7 @@ imagemagick 7.1.2.10-1
 inter-font 4.1-1
 iwd 3.10-1
 jdk-openjdk 25.0.1.u8-1
+jetbrains-toolbox 3.1.2.64642-1
 jq 1.8.1-1
 lazygit 0.57.0-1
 less 1:685-1
