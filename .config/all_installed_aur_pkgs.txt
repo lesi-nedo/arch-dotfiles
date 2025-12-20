@@ -18,5 +18,4 @@ tlrc-debug
 ttf-material-symbols-variable-git
 visual-studio-code-bin
 woeusb-ng
-yay
 yay-debug
