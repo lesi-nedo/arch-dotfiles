@@ -12,6 +12,7 @@ gpu-screen-recorder-debug
 jetbrains-toolbox
 limine-mkinitcpio-hook
 matugen-git
+opera
 supergfxctl
 tlrc
 tlrc-debug
