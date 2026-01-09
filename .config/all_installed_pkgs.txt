@@ -63,7 +63,7 @@ lazygit 0.58.0-1
 less 1:685-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 25.8.4-1
-limine 10.6.1-1
+limine 10.6.2-1
 limine-mkinitcpio-hook 1.28.1-1
 linux 6.18.3.arch1-1
 linux-firmware 20251125-2
@@ -87,7 +87,7 @@ npm 11.7.0-1
 nvidia-open-dkms 590.48.01-1
 nvidia-prime 1.0-5
 nvidia-utils 590.48.01-1
-okular 25.12.0-1
+okular 25.12.1-1
 openmpi 5.0.9-2
 openssh 10.2p1-2
 opera 125.0.5729.49-1
