@@ -19,7 +19,7 @@ cliphist 1:0.7.0-1
 connect-tunnel 12.43.00283-1
 ddcutil 2.2.3-1
 dkms 3.3.0-1
-downgrade 11.5.5-1
+downgrade 11.8.0-1
 efibootmgr 18-3
 ethtool 1:6.15-1
 extramaus 20121220-3
@@ -40,8 +40,8 @@ git 2.52.0-2
 git-delta 0.18.2-6
 github-cli 2.83.2-1
 gnome-keyring 1:48.0-1
-google-chrome 143.0.7499.169-1
-gpu-screen-recorder r1251.cb9cb6c-1
+google-chrome 143.0.7499.192-1
+gpu-screen-recorder r1263.6cbf660-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.9-2
 gtk3 1:3.24.51-1
@@ -90,7 +90,7 @@ nvidia-utils 590.48.01-1
 okular 25.12.1-1
 openmpi 5.0.9-2
 openssh 10.2p1-2
-opera 125.0.5729.49-1
+opera 126.0.5750.18-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.4.9-2
 pipewire-alsa 1:1.4.9-2
@@ -146,7 +146,7 @@ ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.014-1
 uwsm 0.26.0-1
-visual-studio-code-bin 1.107.1-1
+visual-studio-code-bin 1.108.0-1
 wev 1.1.0-1
 wget 1.25.0-3
 wireplumber 0.5.13-1
