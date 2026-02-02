@@ -2,6 +2,7 @@ adwaita-qt5-git
 adwaita-qt6-git
 asusctl
 asusctl-debug
+brave-bin
 connect-tunnel
 connect-tunnel-debug
 downgrade

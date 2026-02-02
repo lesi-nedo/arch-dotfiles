@@ -11,6 +11,7 @@ bat 0.26.1-1
 biber 1:2.21-3
 bluez 5.85-1
 bluez-utils 5.85-1
+brave-bin 1:1.86.146-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.17.1-2
 cava 0.10.6-1
