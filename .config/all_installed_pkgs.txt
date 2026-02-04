@@ -4,7 +4,7 @@ amd-ucode 20260110-1
 amdgpu_top 0.11.0-1
 android-file-transfer 4.5-2
 aquamarine 0.10.0-2
-asusctl 6.3.0-0.1
+asusctl 6.3.2-0.1
 base 3-2
 base-devel 1-2
 bat 0.26.1-1
@@ -42,8 +42,8 @@ git 2.53.0-1
 git-delta 0.18.2-6
 github-cli 2.86.0-1
 gnome-keyring 1:48.0-1
-google-chrome 144.0.7559.96-1
-gpu-screen-recorder r1277.4cebc3f-1
+google-chrome 144.0.7559.109-1
+gpu-screen-recorder 5.12.3-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.10-2
 gtk3 1:3.24.51-1
