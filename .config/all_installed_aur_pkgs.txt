@@ -8,7 +8,6 @@ connect-tunnel-debug
 downgrade
 extramaus
 google-chrome
-gpu-screen-recorder
 gpu-screen-recorder-debug
 jetbrains-toolbox
 limine-mkinitcpio-hook
