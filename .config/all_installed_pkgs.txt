@@ -31,7 +31,7 @@ fd 10.3.0-1
 feh 3.11.2-2
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.69.5-4
-firefox 147.0.2-1
+firefox 147.0.3-1
 fuse2 2.9.9-5
 fuzzel 1.14.0-2
 gdb 17.1-2
@@ -62,10 +62,10 @@ jdk-openjdk 25.0.2.u10-1
 jetbrains-toolbox 3.2.0.65851-1
 jq 1.8.1-1
 lazygit 0.58.1-1
-less 1:691-1
+less 1:691-2
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 25.8.4-3
-limine 10.6.5-1
+limine 10.6.6-1
 limine-mkinitcpio-hook 1.28.3-1
 linux 6.18.7.arch1-1
 linux-firmware 20260110-1
@@ -81,7 +81,7 @@ mpv 1:0.41.0-2
 mtpfs 1.1-5
 neovim 0.11.6-1
 networkmanager 1.54.3-1
-nodejs 25.4.0-1
+nodejs 25.6.0-1
 noto-fonts 1:2026.02.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
@@ -89,7 +89,7 @@ npm 11.8.0-1
 nvidia-open-dkms 590.48.01-2
 nvidia-prime 1.0-5
 nvidia-utils 590.48.01-2
-okular 25.12.1-1
+okular 25.12.2-1
 openmpi 5.0.9-3
 openssh 10.2p1-2
 opera 126.0.5750.59-1
