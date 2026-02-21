@@ -11,7 +11,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.86-2
 bluez-utils 5.86-2
-brave-bin 1:1.87.188-1
+brave-bin 1:1.87.190-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.19-1
 cava 0.10.7-1
@@ -31,7 +31,7 @@ fd 10.3.0-2
 feh 3.11.2-2
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.69.6-1
-firefox 147.0.3-2
+firefox 147.0.4-1
 fuse2 2.9.9-5
 fuzzel 1.14.0-2
 gdb 17.1-2
@@ -40,9 +40,9 @@ ghostty 1.2.3-3
 gimp 3.0.8-2
 git 2.53.0-1
 git-delta 0.18.2-7
-github-cli 2.86.0-1
+github-cli 2.87.2-1
 gnome-keyring 1:48.0-1
-google-chrome 145.0.7632.75-1
+google-chrome 145.0.7632.109-1
 gpu-screen-recorder 5.12.4-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.10-2
@@ -70,8 +70,8 @@ limine-mkinitcpio-hook 1.30.0-1
 linux 6.18.9.arch1-2
 linux-firmware 20260110-1
 linux-headers 6.18.9.arch1-2
-linux-lts 6.12.73-1
-linux-lts-headers 6.12.73-1
+linux-lts 6.12.74-1
+linux-lts-headers 6.12.74-1
 lua51 5.1.5-13
 luarocks 3.13.0-1
 matugen-git 2.4.1.r103.g8ea1190-1
@@ -85,14 +85,14 @@ nodejs 25.6.1-1
 noto-fonts 1:2026.02.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
-npm 11.10.0-1
+npm 11.10.1-1
 nvidia-open-dkms 590.48.01-4
 nvidia-prime 1.0-5
 nvidia-utils 590.48.01-4
 okular 25.12.2-1
 openmpi 5.0.9-4
 openssh 10.2p1-2
-opera 127.0.5778.64-1
+opera 127.0.5778.76-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.4.10-2
 pipewire-alsa 1:1.4.10-2
@@ -148,8 +148,8 @@ ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.1-1
-uwsm 0.26.3-1
-visual-studio-code-bin 1.109.4-1
+uwsm 0.26.4-1
+visual-studio-code-bin 1.109.5-1
 wev 1.1.0-1
 wget 1.25.0-3
 wireplumber 0.5.13-1
@@ -159,7 +159,7 @@ xdg-desktop-portal 1.20.3-2
 xdg-desktop-portal-gtk 1.15.3-1
 xdg-desktop-portal-hyprland 1.3.11-3
 yay 12.5.7-1
-yazi 26.1.22-1
+yazi 26.1.22-2
 zoxide 0.9.9-2
 zram-generator 1.2.1-1
 zsh 5.9-5
