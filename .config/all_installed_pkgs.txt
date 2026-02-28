@@ -31,7 +31,7 @@ fd 10.3.0-2
 feh 3.11.3-1
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.69.6-1
-firefox 147.0.4-1
+firefox 148.0-1
 fuse2 2.9.9-5
 fuzzel 1.14.0-2
 gdb 17.1-2
@@ -65,7 +65,7 @@ lazygit 0.59.0-1
 less 1:692-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.0-5
-limine 10.8.0-1
+limine 10.8.2-1
 limine-mkinitcpio-hook 1.30.0-1
 linux 6.18.9.arch1-2
 linux-firmware 20260221-1
@@ -90,7 +90,7 @@ nvidia-open-dkms 590.48.01-4
 nvidia-prime 1.0-5
 nvidia-utils 590.48.01-4
 okular 25.12.2-1
-openmpi 5.0.9-4
+openmpi 5.0.10-1
 openssh 10.2p1-2
 opera 127.0.5778.76-1
 papirus-icon-theme 20250501-1
