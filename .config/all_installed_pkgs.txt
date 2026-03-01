@@ -9,8 +9,8 @@ base 3-3
 base-devel 1-2
 bat 0.26.1-2
 biber 1:2.21-3
-bluez 5.86-2
-bluez-utils 5.86-2
+bluez 5.86-3
+bluez-utils 5.86-3
 brave-bin 1:1.87.191-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.19-1
@@ -48,7 +48,7 @@ grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.10-2
 gtk3 1:3.24.51-1
 gtk4 1:4.20.3-1
-gvfs-mtp 1.58.1-1
+gvfs-mtp 1.58.2-1
 hypridle 0.1.7-6
 hyprland 0.54.0-1
 hyprland-protocols 0.7.0-1
@@ -81,7 +81,7 @@ mpv 1:0.41.0-3
 mtpfs 1.1-5
 neovim 0.11.6-1
 networkmanager 1.54.3-1
-nodejs 25.6.1-2
+nodejs 25.7.0-1
 noto-fonts 1:2026.02.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
