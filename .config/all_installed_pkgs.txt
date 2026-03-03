@@ -9,8 +9,8 @@ base 3-3
 base-devel 1-2
 bat 0.26.1-2
 biber 1:2.21-3
-bluez 5.86-3
-bluez-utils 5.86-3
+bluez 5.86-4
+bluez-utils 5.86-4
 brave-bin 1:1.87.191-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.19-1
@@ -20,7 +20,7 @@ cliphist 1:0.7.0-2
 connect-tunnel 12.50.00212-1
 ddcutil 2.2.5-2
 dkms 3.3.0-1
-downgrade 11.8.1-1
+downgrade 11.8.2-1
 efibootmgr 18-3
 ethtool 1:6.19-1
 extramaus 20121220-3
@@ -82,7 +82,7 @@ mtpfs 1.1-5
 neovim 0.11.6-1
 networkmanager 1.54.3-1
 nodejs 25.7.0-1
-noto-fonts 1:2026.02.01-1
+noto-fonts 1:2026.03.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
 npm 11.10.1-1
@@ -130,7 +130,7 @@ spotify-launcher 0.6.5-1
 starship 1.24.2-2
 supergfxctl 5.2.7-2
 tectonic 0.15.0-4
-telegram-desktop 6.5.1-1
+telegram-desktop 6.6.0-1
 terminus-font 4.49.1-8
 texlive-basic 2025.2-3
 texlive-bibtexextra 2025.2-3
