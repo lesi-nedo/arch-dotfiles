@@ -12,6 +12,8 @@ gpu-screen-recorder-debug
 jetbrains-toolbox
 limine-mkinitcpio-hook
 matugen-git
+noctalia-qs
+noctalia-shell
 opera
 supergfxctl
 tlrc

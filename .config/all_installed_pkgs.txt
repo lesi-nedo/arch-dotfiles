@@ -43,7 +43,7 @@ git-delta 0.18.2-7
 github-cli 2.87.3-1
 gnome-keyring 1:48.0-1
 google-chrome 145.0.7632.116-1
-gpu-screen-recorder 5.12.4-1
+gpu-screen-recorder 5.12.5-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.4.10-2
 gtk3 1:3.24.51-1
@@ -81,11 +81,12 @@ mpv 1:0.41.0-3
 mtpfs 1.1-5
 neovim 0.11.6-1
 networkmanager 1.54.3-1
+noctalia-shell 4.6.1-1
 nodejs 25.7.0-1
 noto-fonts 1:2026.03.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
-npm 11.10.1-1
+npm 11.11.0-1
 nvidia-open-dkms 590.48.01-4
 nvidia-prime 1.0-5
 nvidia-utils 590.48.01-4
@@ -118,7 +119,6 @@ qt6-quick3d 6.10.2-1
 qt6-tools 6.10.2-1
 qt6-wayland 6.10.2-1
 qt6ct 0.11-4
-quickshell 0.2.1-5
 ripgrep 15.1.0-2
 rsync 3.4.1-2
 slurp 1.5.0-1
@@ -130,7 +130,7 @@ spotify-launcher 0.6.5-1
 starship 1.24.2-2
 supergfxctl 5.2.7-2
 tectonic 0.15.0-4
-telegram-desktop 6.6.0-1
+telegram-desktop 6.6.1-1
 terminus-font 4.49.1-8
 texlive-basic 2025.2-3
 texlive-bibtexextra 2025.2-3
