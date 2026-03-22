@@ -105,7 +105,7 @@ postgresql 18.3-2
 postgresql-old-upgrade 17.9-2
 power-profiles-daemon 0.30-1
 ppp 2.5.2-1
-python-pipx 1.8.0-2
+python-pipx 1.10.1-1
 python-pynvim 0.6.0-2
 qbittorrent 5.1.4-1
 qpwgraph 1.0.0-1
@@ -140,6 +140,7 @@ texlive-latexextra 2026.0-3
 texlive-pictures 2026.0-3
 thefuck 3.32-12
 thunar 4.20.7-1
+time 1.9-6
 tlrc 1.12.0-1
 ttf-dejavu 2.37+18+g9b5d1b2f-7
 ttf-fira-code 6.2-2
