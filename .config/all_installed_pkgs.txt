@@ -1,5 +1,6 @@
 adwaita-qt5-git 1.4.1.r29.g0a77436-1
 adwaita-qt6-git 1.4.1.r29.g0a77436-1
+alsa-utils 1.2.15.2-2
 amd-ucode 20260309-1
 amdgpu_top 0.11.2-1
 android-file-transfer 4.5-2
@@ -11,7 +12,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.86-4
 bluez-utils 5.86-4
-brave-bin 1:1.88.134-1
+brave-bin 1:1.88.136-1
 brightnessctl 0.5.1-3
 btrfs-progs 6.19.1-1
 cava 0.10.7-1
@@ -21,6 +22,7 @@ connect-tunnel 12.50.00212-1
 ddcutil 2.2.6-1
 dkms 3.3.0-1
 downgrade 12.0.1-1
+easyeffects 8.1.8-1
 efibootmgr 18-3
 ethtool 1:6.19-1
 extramaus 20121220-3
@@ -42,7 +44,7 @@ git 2.53.0-1
 git-delta 0.19.2-1
 github-cli 2.89.0-1
 gnome-keyring 1:48.0-1
-google-chrome 146.0.7680.153-1
+google-chrome 146.0.7680.164-1
 gpu-screen-recorder 5.12.5-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.2-1
@@ -59,14 +61,14 @@ imagemagick 7.1.2.18-1
 inter-font 4.1-1
 iwd 3.12-1
 jdk-openjdk 26.u35-1
-jetbrains-toolbox 3.4.0.77112-1
+jetbrains-toolbox 3.4.1.78303-1
 jq 1.8.1-1
 lazygit 0.60.0-1
 less 1:692-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.2-1
 limine 11.1.0-1
-limine-mkinitcpio-hook 1.31.1-1
+limine-mkinitcpio-hook 1.32.0-1
 linux 6.19.10.arch1-1
 linux-firmware 20260309-1
 linux-headers 6.19.10.arch1-1
@@ -81,7 +83,7 @@ mpv 1:0.41.0-3
 mtpfs 1.1-5
 neovim 0.11.7-1
 networkmanager 1.56.0-1
-noctalia-shell 4.7.0-2
+noctalia-shell 4.7.1-1
 nodejs 25.8.2-1
 noto-fonts 1:2026.03.01-1
 noto-fonts-cjk 20240730-1
@@ -93,7 +95,7 @@ nvidia-utils 595.58.03-1
 okular 25.12.3-1
 openmpi 5.0.10-2
 openssh 10.2p1-2
-opera 129.0.5823.15-1
+opera 129.0.5823.28-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.2-1
 pipewire-alsa 1:1.6.2-1
@@ -153,13 +155,13 @@ ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.1-1
 uwsm 0.26.4-1
-visual-studio-code-bin 1.112.0-1
+visual-studio-code-bin 1.113.0-1
 vlc 3.0.22-2
 wev 1.1.0-1
 wget 1.25.0-3
 wireplumber 0.5.14-1
 wlsunset 0.4.0-1
-woeusb-ng 0.2.12-3
+woeusb-ng 0.2.12-4
 xdg-desktop-portal 1.20.3-2
 xdg-desktop-portal-gtk 1.15.3-1
 xdg-desktop-portal-hyprland 1.3.11-3
