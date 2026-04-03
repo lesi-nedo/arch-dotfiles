@@ -2,9 +2,9 @@ adwaita-qt5-git 1.4.1.r29.g0a77436-1
 adwaita-qt6-git 1.4.1.r29.g0a77436-1
 alsa-utils 1.2.15.2-2
 amd-ucode 20260309-1
-amdgpu_top 0.11.2-1
+amdgpu_top 0.11.3-1
 android-file-transfer 4.5-2
-aquamarine 0.10.0-3
+aquamarine 0.10.0-4
 asusctl 6.3.4-1
 base 3-3
 base-devel 1-2
@@ -20,7 +20,7 @@ ccache 4.13.2-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.00212-1
 ddcutil 2.2.6-1
-dkms 3.3.0-1
+dkms 3.4.0-1
 downgrade 12.0.1-1
 easyeffects 8.1.8-1
 efibootmgr 18-3
@@ -49,14 +49,14 @@ gpu-screen-recorder 5.12.5-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.2-1
 gtk3 1:3.24.52-1
-gtk4 1:4.20.3-1
+gtk4 1:4.20.4-1
 gvfs-mtp 1.58.3-1
-hypridle 0.1.7-7
-hyprland 0.54.3-1
+hypridle 0.1.7-8
+hyprland 0.54.3-2
 hyprland-protocols 0.7.0-1
-hyprlock 0.9.3-1
-hyprpaper 0.8.3-3
-hyprpolkitagent 0.1.3-5
+hyprlock 0.9.3-2
+hyprpaper 0.8.3-4
+hyprpolkitagent 0.1.3-6
 imagemagick 7.1.2.18-1
 inter-font 4.1-1
 iwd 3.12-1
@@ -84,7 +84,7 @@ mtpfs 1.1-5
 neovim 0.11.7-1
 networkmanager 1.56.0-1
 noctalia-shell 4.7.1-1
-nodejs 25.8.2-1
+nodejs 25.8.2-3
 noto-fonts 1:2026.03.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
@@ -107,7 +107,7 @@ postgresql 18.3-2
 postgresql-old-upgrade 17.9-2
 power-profiles-daemon 0.30-1
 ppp 2.5.2-1
-python-pipx 1.11.0-1
+python-pipx 1.11.1-1
 python-pynvim 0.6.0-2
 qbittorrent 5.1.4-2
 qpwgraph 1.0.0-1
@@ -155,7 +155,7 @@ ttf-roboto 3.015-1
 tumbler 4.20.1-1
 uwsm 0.26.4-1
 visual-studio-code-bin 1.113.0-1
-vlc 3.0.22-2
+vlc 3.0.22-3
 wev 1.1.0-1
 wget 1.25.0-3
 wireplumber 0.5.14-1
@@ -163,7 +163,7 @@ wlsunset 0.4.0-1
 woeusb-ng 0.2.12-4
 xdg-desktop-portal 1.20.3-2
 xdg-desktop-portal-gtk 1.15.3-1
-xdg-desktop-portal-hyprland 1.3.11-3
+xdg-desktop-portal-hyprland 1.3.11-4
 yay 12.5.7-1
 yazi 26.1.22-4
 zoxide 0.9.9-2
