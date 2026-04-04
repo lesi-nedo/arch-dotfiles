@@ -30,7 +30,7 @@ eza 0.23.4-3
 fastfetch 2.61.0-1
 fcft 3.3.3-1
 fd 10.4.2-1
-feh 3.11.3-1
+feh 3.11.4-1
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.69.6-4
 firefox 149.0-1
@@ -66,14 +66,14 @@ jq 1.8.1-1
 lazygit 0.60.0-1
 less 1:692-1
 libpulse 17.0+r98+gb096704c0-1
-libreoffice-fresh 26.2.2-1
-limine 11.1.0-1
+libreoffice-fresh 26.2.2-2
+limine 11.2.0-1
 limine-mkinitcpio-hook 1.32.0-1
 linux 6.19.10.arch1-1
 linux-firmware 20260309-1
 linux-headers 6.19.10.arch1-1
-linux-lts 6.18.20-1
-linux-lts-headers 6.18.20-1
+linux-lts 6.18.21-1
+linux-lts-headers 6.18.21-1
 lua51 5.1.5-13
 luarocks 3.13.0-5
 matugen-git 2.4.1.r103.g8ea1190-1
@@ -84,7 +84,7 @@ mtpfs 1.1-5
 neovim 0.11.7-1
 networkmanager 1.56.0-1
 noctalia-shell 4.7.1-1
-nodejs 25.8.2-3
+nodejs 25.9.0-1
 noto-fonts 1:2026.03.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
@@ -142,7 +142,7 @@ texlive-fontsextra 2026.0-3
 texlive-latexextra 2026.0-3
 texlive-pictures 2026.0-3
 thefuck 3.32-12
-thunar 4.20.8-1
+thunar 4.20.8-2
 time 1.9-6
 tlrc 1.12.0-1
 ttf-dejavu 2.37+18+g9b5d1b2f-7
