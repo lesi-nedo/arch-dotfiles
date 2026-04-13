@@ -30,7 +30,7 @@ eza 0.23.4-3
 fastfetch 2.61.0-1
 fcft 3.3.3-1
 fd 10.4.2-1
-feh 3.11.4-1
+feh 3.12.1-1
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.69.6-4
 firefox 149.0.2-1
@@ -142,7 +142,7 @@ texlive-fontsextra 2026.1-1
 texlive-latexextra 2026.1-1
 texlive-pictures 2026.1-1
 thefuck 3.32-12
-thunar 4.20.8-2
+thunar 4.20.8-3
 time 1.9-6
 tlrc 1.13.0-2
 ttf-dejavu 2.37+18+g9b5d1b2f-8
