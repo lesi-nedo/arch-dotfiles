@@ -15,6 +15,7 @@ matugen-git
 noctalia-qs
 noctalia-shell
 opera
+rog-control-center
 supergfxctl
 tlrc
 tlrc-debug
