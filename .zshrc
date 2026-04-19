@@ -8,8 +8,9 @@ bindkey -e
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/lesi-nedo/.zshrc'
+fpath+=~/.zfunc 
+autoload -Uz compinit && compinit
 
-autoload -Uz compinit
 autoload -Uz zrecompile
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
@@ -40,7 +41,7 @@ if [[ -o interactive ]]; then
     fastfetch
 fi
 
-export BAT_THEME=Cattpuccin_Mocha
+export BAT_THEME="Catppuccin_Mocha"
 
 fg="#CBE0F0"
 bg="#011628"
@@ -51,6 +52,8 @@ cyan="#2CF9ED"
 export FZF_DEFAULT_OPTS="--color=fg:${fg},bg:${bg},hl:${purple},fg+:${fg},bg+:${bg},hl+:${purple},info:${blue},prompt:${cyan},marker:${cyan},spinner:${cyan},header:${cyan}"
 
 alias ls="eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions"
+alias pactivate='source $(poetry env info --path)/bin/activate'
+
 
 export FZF_CTRL_T_OPTS="--preview 'bat -n --color=always --line-range :500 {}'"
 export FZF_ALT_C_OPTS="--preview 'eza --tree --color=always {} | head -200'"
@@ -91,3 +94,8 @@ ZSH_AUTOSUGGEST_USE_ASYNC=1
 
 alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
+
+# Created by `pipx` on 2025-09-13 15:23:35
+export PATH="$PATH:/home/lesi-nedo/.local/bin:/home/lesi-nedo/.local/share/JetBrains/Toolbox/scripts"
+. "$HOME/.cargo/env"
+export PATH="$HOME/.npm-global/bin:$PATH"

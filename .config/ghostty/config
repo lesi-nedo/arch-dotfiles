@@ -1,6 +1,8 @@
 ## appearance
-theme = tokyonight-storm 
-background-blur-radius = 40
+# Enable background blur (intensity is compositor-dependent on Linux; KDE honors only on/off)
+background-blur = true
+theme = GitLab Dark Grey
+
 font-size = 14
 font-family-bold = JetBrains Mono NL Bold
 font-family-bold-italic = JetBrains Mono NL Bold Italic
@@ -86,8 +88,14 @@ window-save-state = never
 shell-integration = zsh
 # Disable shell integration cursor changes
 shell-integration-features = no-cursor
-# Set background to 90% opacity
-background-opacity = 0.94
+# Glass effect: increase transparency and keep text readable
+background-opacity = 0.70
+# Apply transparency to app-drawn backgrounds (vim/tmux, etc.)
+background-opacity-cells = true
+# Enforce a minimum contrast ratio so text adjusts (auto-switches toward black/white as needed)
+minimum-contrast = 3.2
+# Match GTK window chrome to terminal colors on Linux
+window-theme = ghostty
 # Balance extra padding in viewport
 window-padding-balance = true
 # Disable blinking cursor
