@@ -20,6 +20,7 @@ ccache 4.13.2-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.00221-1
 ddcutil 2.2.6-1
+discord 1:0.0.133-1
 dkms 3.4.0-1
 downgrade 12.0.1-1
 easyeffects 8.2.0-1
@@ -44,6 +45,7 @@ git 2.53.0-1
 git-delta 0.19.2-1
 github-cli 2.90.0-1
 gnome-keyring 1:50.0-1
+gogcli 0.12.0-1
 google-chrome 147.0.7727.101-1
 gpu-screen-recorder 5.13.1-1
 grim 1.5.0-2
@@ -92,6 +94,7 @@ npm 11.12.1-1
 nvidia-open-dkms 595.58.03-2
 nvidia-prime 1.0-5
 nvidia-utils 595.58.03-2
+obsidian 1.12.7-1
 okular 26.04.0-1
 openmpi 5.0.10-2
 openssh 10.3p1-1
@@ -107,6 +110,7 @@ postgresql 18.3-2
 postgresql-old-upgrade 17.9-2
 power-profiles-daemon 0.30-1
 ppp 2.5.2-1
+python-openai-whisper 20250625-3
 python-pipx 1.11.1-1
 python-pynvim 0.6.0-2
 qbittorrent 5.1.4-2
@@ -146,6 +150,7 @@ thefuck 3.32-12
 thunar 4.20.8-3
 time 1.10-1
 tlrc 1.13.0-2
+tmux 3.6_a-1
 ttf-dejavu 2.37+18+g9b5d1b2f-8
 ttf-fira-code 6.2-4
 ttf-firacode-nerd 3.4.0-2
@@ -157,6 +162,7 @@ tumbler 4.20.1-1
 uwsm 0.26.4-1
 visual-studio-code-bin 1.116.0-1
 vlc 3.0.22-3
+wacli 0.6.0-1
 wev 1.1.0-1
 wget 1.25.0-3
 wireplumber 0.5.14-1

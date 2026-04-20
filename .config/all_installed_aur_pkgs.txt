@@ -7,6 +7,8 @@ connect-tunnel
 connect-tunnel-debug
 downgrade
 extramaus
+gogcli
+gogcli-debug
 google-chrome
 gpu-screen-recorder-debug
 jetbrains-toolbox
@@ -21,6 +23,8 @@ tlrc
 tlrc-debug
 ttf-material-symbols-variable-git
 visual-studio-code-bin
+wacli
+wacli-debug
 woeusb-ng
 yay
 yay-debug
