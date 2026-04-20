@@ -1,7 +1,7 @@
 adwaita-qt5-git 1.4.1.r29.g0a77436-1
 adwaita-qt6-git 1.4.1.r29.g0a77436-1
 alsa-utils 1.2.15.2-2
-amd-ucode 20260309-1
+amd-ucode 20260410-1
 amdgpu_top 0.11.3-1
 android-file-transfer 4.5-2
 aquamarine 0.10.0-4
@@ -32,7 +32,7 @@ fcft 3.3.3-1
 fd 10.4.2-1
 feh 3.12.1-1
 ffmpegthumbnailer 2.3.0-1
-filezilla 3.70.1-1
+filezilla 3.70.4-2
 firefox 149.0.2-1
 fuse2 2.9.9-5
 fuzzel 1.14.1-1
@@ -45,7 +45,7 @@ git-delta 0.19.2-1
 github-cli 2.90.0-1
 gnome-keyring 1:50.0-1
 google-chrome 147.0.7727.101-1
-gpu-screen-recorder 5.12.5-1
+gpu-screen-recorder 5.13.1-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.3-1
 gtk3 1:3.24.52-1
@@ -54,7 +54,7 @@ gvfs-mtp 1.60.0-2
 hypridle 0.1.7-8
 hyprland 0.54.3-2
 hyprland-protocols 0.7.0-1
-hyprlock 0.9.4-1
+hyprlock 0.9.5-1
 hyprpaper 0.8.3-4
 hyprpolkitagent 0.1.3-6
 imagemagick 7.1.2.19-1
@@ -67,11 +67,11 @@ lazygit 0.61.1-1
 less 1:692-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.2-3
-limine 11.3.1-1
+limine 11.4.0-1
 limine-mkinitcpio-hook 1.34.1-1
-linux 6.19.11.arch1-1
-linux-firmware 20260309-1
-linux-headers 6.19.11.arch1-1
+linux 6.19.12.arch1-1
+linux-firmware 20260410-1
+linux-headers 6.19.12.arch1-1
 linux-lts 6.18.22-1
 linux-lts-headers 6.18.22-1
 lua51 5.1.5-13
@@ -131,7 +131,7 @@ snapper 0.13.0-3
 sof-firmware 2025.12.2-1
 solanum 6.0.0-2
 spotify-launcher 0.6.5-1
-starship 1.24.2-2
+starship 1.25.0-1
 strawberry 1.2.19-1
 supergfxctl 5.2.7-2
 tectonic 0.16.8-1
@@ -147,7 +147,7 @@ thunar 4.20.8-3
 time 1.10-1
 tlrc 1.13.0-2
 ttf-dejavu 2.37+18+g9b5d1b2f-8
-ttf-fira-code 6.2-3
+ttf-fira-code 6.2-4
 ttf-firacode-nerd 3.4.0-2
 ttf-jetbrains-mono 2.304-2
 ttf-liberation 2.1.5-2
