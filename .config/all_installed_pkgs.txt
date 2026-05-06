@@ -47,8 +47,8 @@ git 2.54.0-1
 git-delta 0.19.2-1
 github-cli 2.92.0-1
 gnome-keyring 1:50.0-1
-gogcli 0.14.0-1
-google-chrome 147.0.7727.137-1
+gogcli 0.15.0-1
+google-chrome 148.0.7778.96-1
 gpu-screen-recorder 5.13.4-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.4-1
@@ -101,7 +101,7 @@ obsidian 1.12.7-2
 okular 26.04.0-1
 openmpi 5.0.10-2
 openssh 10.3p1-1
-opera 131.0.5877.5-1
+opera 131.0.5877.24-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.4-1
 pipewire-alsa 1:1.6.4-1
@@ -114,7 +114,7 @@ postgresql-old-upgrade 17.9-2
 power-profiles-daemon 0.30-1
 ppp 2.5.2-1
 python-openai-whisper 20250625-3
-python-pipx 1.11.2-1
+python-pipx 1.12.0-1
 python-pynvim 0.6.0-2
 qbittorrent 5.2.0-1
 qpwgraph 1.0.1-1
@@ -163,9 +163,9 @@ ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.1-1
 uwsm 0.26.4-1
-visual-studio-code-bin 1.118.1-1
+visual-studio-code-bin 1.119.0-1
 vlc 3.0.22-3
-wacli 0.6.0-1
+wacli 0.7.0-1
 wev 1.1.0-1
 wget 1.25.0-3
 wireplumber 0.5.14-1
