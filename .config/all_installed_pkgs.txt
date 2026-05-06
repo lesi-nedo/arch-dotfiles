@@ -20,7 +20,7 @@ ccache 4.13.4-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.00221-1
 ddcutil 2.2.6-1
-discord 1:0.0.135-1
+discord 1:1.0.137-1
 dkms 3.4.0-1
 downgrade 12.0.1-1
 easyeffects 8.2.1-1
@@ -114,9 +114,9 @@ postgresql-old-upgrade 17.9-2
 power-profiles-daemon 0.30-1
 ppp 2.5.2-1
 python-openai-whisper 20250625-3
-python-pipx 1.11.1-1
+python-pipx 1.11.2-1
 python-pynvim 0.6.0-2
-qbittorrent 5.1.4-2
+qbittorrent 5.2.0-1
 qpwgraph 1.0.1-1
 qt5-base 5.15.18+kde+r109-2
 qt5-imageformats 5.15.18+kde+r2-1
