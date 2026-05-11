@@ -1,3 +1,4 @@
+accounts-qml-module
 adwaita-qt5-git
 adwaita-qt6-git
 asusctl
