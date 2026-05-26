@@ -4,6 +4,7 @@ alsa-utils 1.2.15.2-2
 amd-ucode 20260519-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
+android-studio 2025.3.4.7-1
 aquamarine 0.11.0-2
 asusctl 6.3.7-1
 base 3-3
@@ -15,6 +16,7 @@ bluez-utils 5.86-6
 brave-bin 1:1.90.124-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.0-1
+bun 1.3.14-1
 cava 0.10.7-1
 ccache 4.13.6-1
 cliphist 1:0.7.0-2
@@ -143,6 +145,7 @@ spotify-launcher 0.6.5-1
 starship 1.25.1-1
 strawberry 1.2.19-1
 supergfxctl 5.2.7-2
+tailscale 1.98.2-1
 tectonic 0.16.9-1
 terminus-font 4.49.1-8
 texlive-basic 2026.1-1

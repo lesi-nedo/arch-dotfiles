@@ -1,6 +1,7 @@
 accounts-qml-module
 adwaita-qt5-git
 adwaita-qt6-git
+android-studio
 asusctl
 asusctl-debug
 brave-bin
