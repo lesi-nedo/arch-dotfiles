@@ -5,7 +5,7 @@ amd-ucode 20260519-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
 android-studio 2025.3.4.7-1
-aquamarine 0.11.0-2
+aquamarine 0.12.0-1
 asusctl 6.3.7-1
 base 3-3
 base-devel 1-2
@@ -13,7 +13,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.86-6
 bluez-utils 5.86-6
-brave-bin 1:1.90.124-1
+brave-bin 1:1.90.128-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.0-1
 bun 1.3.14-1
@@ -48,7 +48,7 @@ ghostty 1.3.1-2
 gimp 3.2.4-1
 git 2.54.0-1
 git-delta 0.19.2-1
-github-cli 2.92.0-2
+github-cli 2.93.0-1
 gnome-keyring 1:50.0-1
 gogcli 0.19.0-1
 google-chrome 148.0.7778.215-1
@@ -59,10 +59,10 @@ gtk3 1:3.24.52-1
 gtk4 1:4.22.4-1
 gvfs-mtp 1.60.0-2
 hypridle 0.1.7-9
-hyprland 0.55.2-1
+hyprland 0.55.2-2
 hyprland-protocols 0.7.0-1
 hyprlock 0.9.5-4
-hyprpaper 0.8.4-1
+hyprpaper 0.8.4-2
 hyprpolkitagent 0.1.3-7
 imagemagick 7.1.2.24-1
 inetutils 2.8-1
@@ -72,7 +72,7 @@ iwd 3.12-1
 jdk-openjdk 26.0.1.u8-1
 jetbrains-toolbox 3.4.3.81140-1
 jq 1.8.1-3
-lazygit 0.62.0-1
+lazygit 0.62.1-1
 less 1:692-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.3-3
@@ -98,14 +98,14 @@ noto-fonts 1:2026.05.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
 npm 11.14.1-1
-nvidia-open-dkms 595.71.05-2
+nvidia-open-dkms 610.43.02-2
 nvidia-prime 1.0-6
-nvidia-utils 595.71.05-2
+nvidia-utils 610.43.02-2
 obsidian 1.12.7-2
 okular 26.04.1-1
 openmpi 5.0.10-2
 openssh 10.3p1-1
-opera 131.0.5877.97-1
+opera 132.0.5905.11-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.6-1
 pipewire-alsa 1:1.6.6-1
@@ -118,7 +118,7 @@ postgresql-old-upgrade 17.10-1
 power-profiles-daemon 0.30-1
 ppp 2.5.2-1
 python-openai-whisper 20250625-3
-python-pipx 1.12.0-1
+python-pipx 1.13.0-1
 python-pynvim 0.6.0-2
 qbittorrent 5.2.1-1
 qpwgraph 1.0.2-1
@@ -168,7 +168,7 @@ ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.1-1
 uwsm 0.26.4-1
-visual-studio-code-bin 1.122.0-1
+visual-studio-code-bin 1.122.1-1
 vlc 3.0.23_2-3
 wacli 0.11.0-1
 wev 1.1.0-1

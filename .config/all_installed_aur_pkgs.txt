@@ -1,4 +1,5 @@
 accounts-qml-module
+accounts-qml-module-debug
 adwaita-qt5-git
 adwaita-qt6-git
 android-studio
