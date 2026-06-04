@@ -28,6 +28,5 @@ ttf-material-symbols-variable-git
 visual-studio-code-bin
 wacli
 wacli-debug
-woeusb-ng
 yay
 yay-debug
