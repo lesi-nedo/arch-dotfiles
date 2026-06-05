@@ -64,7 +64,7 @@ hyprland-protocols 0.7.0-1
 hyprlock 0.9.5-4
 hyprpaper 0.8.4-2
 hyprpolkitagent 0.1.3-7
-imagemagick 7.1.2.24-1
+imagemagick 7.1.2.25-1
 inetutils 2.8-1
 inter-font 4.1-1
 iotop 0.6-13
