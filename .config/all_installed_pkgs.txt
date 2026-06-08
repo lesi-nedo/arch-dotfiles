@@ -6,7 +6,7 @@ amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
 android-studio 2025.3.4.7-1
 aquamarine 0.12.0-1
-asusctl 6.3.7-1
+asusctl 6.3.8-1
 base 3-3
 base-devel 1-2
 bat 0.26.1-2
@@ -134,7 +134,7 @@ qt6-wayland 6.11.1-1
 qt6ct 0.11-7
 reflector 2023-5
 ripgrep 15.1.0-3
-rog-control-center 6.3.7-1
+rog-control-center 6.3.8-1
 rsync 3.4.3-1
 slurp 1.5.0-2
 smartmontools 7.5-1
