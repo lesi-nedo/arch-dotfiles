@@ -22,7 +22,7 @@ ccache 4.13.6-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.00221-1
 ddcutil 2.2.7-1
-discord 1:1.0.141-1
+discord 1:1.0.142-1
 dkms 3.4.1-1
 downgrade 12.0.2-1
 easyeffects 8.2.4-1
@@ -59,7 +59,7 @@ gtk3 1:3.24.52-1
 gtk4 1:4.22.4-1
 gvfs-mtp 1.60.0-2
 hypridle 0.1.7-9
-hyprland 0.55.2-2
+hyprland 0.55.3-1
 hyprland-protocols 0.7.0-1
 hyprlock 0.9.5-4
 hyprpaper 0.8.4-2
@@ -135,7 +135,7 @@ qt6ct 0.11-7
 reflector 2023-5
 ripgrep 15.1.0-3
 rog-control-center 6.3.8-1
-rsync 3.4.3-1
+rsync 3.4.4-1
 slurp 1.5.0-2
 smartmontools 7.5-1
 snapper 0.13.1-2
