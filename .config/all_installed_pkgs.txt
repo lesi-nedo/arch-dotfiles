@@ -4,7 +4,7 @@ alsa-utils 1.2.16-1
 amd-ucode 20260519-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
-android-studio 2026.1.1.8-1
+android-studio 2026.1.1.9-1
 aquamarine 0.12.1-1
 asusctl 6.3.8-1
 base 3-3
@@ -13,7 +13,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.86-6
 bluez-utils 5.86-6
-brave-bin 1:1.91.171-1
+brave-bin 1:1.91.172-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.0-1
 bun 1.3.14-1
@@ -47,10 +47,10 @@ ghostscript 10.07.1-1
 ghostty 1.3.1-2
 gimp 3.2.4-1
 git 2.54.0-1
-git-delta 0.19.2-1
+git-delta 0.19.2-2
 github-cli 2.94.0-1
 gnome-keyring 1:50.0-1
-gogcli 0.24.0-1
+gogcli 0.25.0-1
 google-chrome 149.0.7827.114-1
 gpu-screen-recorder 5.13.9-2
 grim 1.5.0-2
@@ -78,9 +78,9 @@ libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.4-1
 limine 12.3.3-1
 limine-mkinitcpio-hook 1.36.0-1
-linux 7.0.11.arch1-1
+linux 7.0.12.arch1-1
 linux-firmware 20260519-1
-linux-headers 7.0.11.arch1-1
+linux-headers 7.0.12.arch1-1
 linux-lts 6.18.35-1
 linux-lts-headers 6.18.35-1
 lua51 5.1.5-13
@@ -147,7 +147,7 @@ strawberry 1.2.19-1
 supergfxctl 5.2.7-2
 tailscale 1.98.4-1
 tectonic 0.16.9-1
-telegram-desktop 6.9.1-1
+telegram-desktop 6.9.2-1
 terminus-font 4.49.1-8
 texlive-basic 2026.1-1
 texlive-bibtexextra 2026.1-1
@@ -169,7 +169,7 @@ ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.1-1
 uwsm 0.26.4-1
-visual-studio-code-bin 1.124.0-1
+visual-studio-code-bin 1.124.2-1
 vlc 3.0.23_2-6
 wacli 0.11.1-1
 wev 1.1.0-1
