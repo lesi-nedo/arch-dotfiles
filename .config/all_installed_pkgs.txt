@@ -13,7 +13,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.86-6
 bluez-utils 5.86-6
-brave-bin 1:1.91.175-1
+brave-bin 1:1.91.180-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.0-1
 bun 1.3.14-1
@@ -50,8 +50,8 @@ git 2.54.0-1
 git-delta 0.19.2-2
 github-cli 2.95.0-1
 gnome-keyring 1:50.0-1
-gogcli 0.30.0-1
-google-chrome 149.0.7827.196-1
+gogcli 0.31.1-1
+google-chrome 149.0.7827.200-1
 gpu-screen-recorder 5.13.9-2
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.7-1
