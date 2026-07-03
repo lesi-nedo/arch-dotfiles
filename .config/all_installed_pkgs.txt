@@ -13,7 +13,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.86-6
 bluez-utils 5.86-6
-brave-bin 1:1.91.180-1
+brave-bin 1:1.92.134-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.0-1
 bun 1.3.14-1
@@ -48,7 +48,7 @@ ghostty 1.3.1-2
 gimp 3.2.4-1
 git 2.55.0-1
 git-delta 0.19.2-2
-github-cli 2.95.0-1
+github-cli 2.96.0-1
 gnome-keyring 1:50.0-1
 gogcli 0.31.1-1
 google-chrome 150.0.7871.46-1
@@ -70,7 +70,7 @@ inter-font 4.1-1
 iotop 0.6-13
 iwd 3.12-1
 jdk-openjdk 26.0.1.u8-1
-jetbrains-toolbox 3.5.0.84344-1
+jetbrains-toolbox 3.6.0.85549-1
 jq 1.8.2-1
 lazygit 0.62.2-1
 less 1:704-1
@@ -102,10 +102,10 @@ nvidia-open-dkms 610.43.02-3
 nvidia-prime 1.0-6
 nvidia-utils 610.43.02-3
 obsidian 1.12.7-3
-okular 26.04.2-1
+okular 26.04.3-1
 openmpi 5.0.10-3
 openssh 10.3p1-1
-opera 133.0.5932.10-1
+opera 133.0.5932.20-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.7-1
 pipewire-alsa 1:1.6.7-1
@@ -159,7 +159,7 @@ thefuck 3.32-12
 thunar 4.20.8-3
 time 1.10-1
 tlrc 1.13.1-1
-tmux 3.7-1
+tmux 3.7_b-1
 ttf-dejavu 2.37+18+g9b5d1b2f-8
 ttf-fira-code 6.2-4
 ttf-firacode-nerd 3.4.0-2
@@ -171,7 +171,7 @@ tumbler 4.20.1-1
 uwsm 0.26.6-1
 visual-studio-code-bin 1.127.0-1
 vlc 3.0.23_2-9
-wacli 0.11.1-1
+wacli 0.11.2-1
 wev 1.1.0-1
 wget 1.25.0-5
 wireplumber 0.5.15-1
