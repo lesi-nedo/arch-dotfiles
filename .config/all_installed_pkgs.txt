@@ -50,7 +50,7 @@ git 2.55.0-1
 git-delta 0.19.2-2
 github-cli 2.96.0-1
 gnome-keyring 1:50.0-1
-gogcli 0.31.1-1
+gogcli 0.32.0-1
 google-chrome 150.0.7871.46-1
 gpu-screen-recorder 5.13.9-2
 grim 1.5.0-2
@@ -70,7 +70,7 @@ inter-font 4.1-1
 iotop 0.6-13
 iwd 3.12-1
 jdk-openjdk 26.0.1.u8-1
-jetbrains-toolbox 3.6.0.85549-1
+jetbrains-toolbox 3.6.1.85592-1
 jq 1.8.2-1
 lazygit 0.63.0-1
 less 1:704-1
@@ -105,7 +105,7 @@ obsidian 1.12.7-3
 okular 26.04.3-1
 openmpi 5.0.10-3
 openssh 10.3p1-1
-opera 133.0.5932.20-1
+opera 133.0.5932.24-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.7-1
 pipewire-alsa 1:1.6.7-1
