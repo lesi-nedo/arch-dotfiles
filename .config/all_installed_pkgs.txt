@@ -22,13 +22,13 @@ ccache 4.13.6-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.00221-1
 ddcutil 2.2.7-1
-discord 1:1.0.145-1
+discord 1:1.0.146-1
 dkms 3.4.1-1
 downgrade 12.0.2-1
 easyeffects 8.2.7-1
 ebook-tools 0.2.2-9
 efibootmgr 18-4
-ethtool 1:7.0-1
+ethtool 1:7.1-1
 exfatprogs 1.4.2-1
 extramaus 20121220-3
 eza 0.23.4-3
@@ -104,7 +104,7 @@ nvidia-utils 610.43.02-3
 obsidian 1.12.7-3
 okular 26.04.3-1
 openmpi 5.0.10-3
-openssh 10.3p1-1
+openssh 10.4p1-1
 opera 133.0.5932.24-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.7-1
