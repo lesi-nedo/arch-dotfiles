@@ -38,7 +38,7 @@ fd 10.4.2-2
 feh 3.12.2-1
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.70.6-1
-firefox 152.0.4-1
+firefox 152.0.5-1
 fortune-mod 3.26.1-1
 fuse2 2.9.9-5
 fuzzel 1.14.1-1
@@ -104,7 +104,7 @@ nvidia-utils 610.43.02-3
 obsidian 1.12.7-3
 okular 26.04.3-1
 openmpi 5.0.10-3
-openssh 10.4p1-1
+openssh 10.4p1-2
 opera 133.0.5932.24-1
 papirus-icon-theme 20250501-1
 pipewire 1:1.6.7-1
@@ -120,7 +120,7 @@ ppp 2.5.2-1
 python-openai-whisper 20250625-3
 python-pipx 1.15.0-1
 python-pynvim 0.6.0-2
-qbittorrent 5.2.2-1
+qbittorrent 5.2.3-1
 qpwgraph 1.0.2-1
 qt5-base 5.15.19+kde+r96-1
 qt5-imageformats 5.15.19+kde+r2-1
