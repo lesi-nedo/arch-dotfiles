@@ -168,6 +168,7 @@ ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.1-1
+usbutils 019-1
 uwsm 0.26.6-1
 visual-studio-code-bin 1.127.0-1
 vlc 3.0.23_2-9
