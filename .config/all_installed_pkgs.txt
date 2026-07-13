@@ -120,7 +120,7 @@ ppp 2.5.2-1
 python-openai-whisper 20250625-3
 python-pipx 1.15.0-1
 python-pynvim 0.6.0-2
-qbittorrent 5.2.3-1
+qbittorrent 5.2.3-2
 qpwgraph 1.0.2-1
 qt5-base 5.15.19+kde+r96-1
 qt5-imageformats 5.15.19+kde+r2-1
@@ -186,7 +186,7 @@ yay 13.0.1-1
 yazi 26.5.6-4
 zoxide 0.10.0-1
 zram-generator 1.2.1-1
-zsh 5.9.1-1
+zsh 5.9.2-1
 zsh-autosuggestions 0.7.1-1
 zsh-completions 0.36.0-1
 zsh-syntax-highlighting 0.8.0-2
