@@ -54,7 +54,7 @@ gogcli 0.32.0-1
 google-chrome 150.0.7871.114-1
 gpu-screen-recorder 5.14.1-1
 grim 1.5.0-2
-gst-plugin-pipewire 1:1.6.7-1
+gst-plugin-pipewire 1:1.6.8-1
 gtk3 1:3.24.52-1
 gtk4 1:4.22.4-1
 gvfs-mtp 1.60.1-1
@@ -64,7 +64,7 @@ hyprland-protocols 0.7.0-1
 hyprlock 0.9.5-4
 hyprpaper 0.8.4-3
 hyprpolkitagent 0.1.3-7
-imagemagick 7.1.2.26-2
+imagemagick 7.1.2.27-1
 inetutils 2.8-1
 inter-font 4.1-1
 iotop 0.6-13
@@ -97,7 +97,7 @@ nodejs 26.4.0-1
 noto-fonts 1:2026.07.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
-npm 12.0.0-1
+npm 12.0.1-1
 nvidia-open-dkms 610.43.03-2
 nvidia-prime 1.0-6
 nvidia-utils 610.43.03-2
@@ -107,11 +107,11 @@ openmpi 5.0.10-3
 openssh 10.4p1-2
 opera 133.0.5932.34-1
 papirus-icon-theme 20250501-1
-pipewire 1:1.6.7-1
-pipewire-alsa 1:1.6.7-1
-pipewire-jack 1:1.6.7-1
-pipewire-libcamera 1:1.6.7-1
-pipewire-pulse 1:1.6.7-1
+pipewire 1:1.6.8-1
+pipewire-alsa 1:1.6.8-1
+pipewire-jack 1:1.6.8-1
+pipewire-libcamera 1:1.6.8-1
+pipewire-pulse 1:1.6.8-1
 playerctl 2.4.1-5
 postgresql 18.4-1
 postgresql-old-upgrade 17.10-1
