@@ -5,6 +5,7 @@ amd-ucode 20260622-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
 android-studio 2026.1.2.10-1
+anki 26.05-1
 aquamarine 0.13.0-2
 asusctl 6.3.8-1
 base 3-3
@@ -93,7 +94,7 @@ mtpfs 1.1-5
 neovim 0.12.4-1
 networkmanager 1.58.0-1
 noctalia-shell 4.7.7-3
-nodejs 26.4.0-1
+nodejs 26.5.0-1
 noto-fonts 1:2026.07.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
@@ -147,13 +148,13 @@ strawberry 1.2.24-1
 supergfxctl 5.2.7-2
 tailscale 1.98.9-1
 tectonic 0.16.9-1
-telegram-desktop 7.0.4-1
 terminus-font 4.49.1-8
 texlive-basic 2026.1-1
 texlive-bibtexextra 2026.1-1
 texlive-binextra 2026.1-1
 texlive-fontsextra 2026.1-1
 texlive-latexextra 2026.1-1
+texlive-mathscience 2026.1-1
 texlive-pictures 2026.1-1
 thefuck 3.32-13
 thunar 4.20.9-1
