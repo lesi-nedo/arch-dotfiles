@@ -4,7 +4,7 @@ alsa-utils 1.2.16-1
 amd-ucode 20260622-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
-android-studio 2026.1.2.11-1
+android-studio 2026.1.3.7-1
 anki 26.05-1
 aquamarine 0.14.0-1
 asusctl 6.3.8-1
@@ -14,7 +14,7 @@ bat 0.26.1-2
 biber 1:2.21-3
 bluez 5.87-2
 bluez-utils 5.87-2
-brave-bin 1:1.92.144-1
+brave-bin 1:1.93.129-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.1-1
 bun 1.3.14-1
@@ -52,7 +52,7 @@ git-delta 0.19.2-2
 github-cli 2.97.0-1
 gnome-keyring 1:50.0-1
 gogcli 0.34.1-1
-google-chrome 150.0.7871.186-1
+google-chrome 151.0.7922.71-1
 gpu-screen-recorder 5.15.3-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.8-1
@@ -71,7 +71,7 @@ inter-font 4.1-1
 iotop 0.6-13
 iwd 3.12-1
 jdk-openjdk 26.0.2.u10-1
-jetbrains-toolbox 3.6.2.85969-1
+jetbrains-toolbox 3.6.3.86383-1
 jq 1.8.2-1
 lazygit 0.63.1-1
 less 1:704-1
@@ -173,7 +173,7 @@ ttf-roboto 3.015-1
 tumbler 4.20.2-1
 usbutils 019-1
 uwsm 0.26.6-1
-visual-studio-code-bin 1.130.0-1
+visual-studio-code-bin 1.131.0-1
 vlc 3.0.23_2-9
 wacli 0.15.0-1
 wev 1.1.0-1
