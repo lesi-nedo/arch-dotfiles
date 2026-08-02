@@ -15,10 +15,12 @@ gogcli-debug
 google-chrome
 jetbrains-toolbox
 limine-mkinitcpio-hook
+litehtml0.9
 matugen-git
 noctalia-qs
 noctalia-shell
 opera
+python-pkg_resources
 rog-control-center
 supergfxctl
 tlrc
