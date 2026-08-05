@@ -5,7 +5,7 @@ amd-ucode 20260622-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.5-2
 android-studio 2026.1.3.7-1
-anki 26.05-1
+anki 26.08-1
 aquamarine 0.14.0-1
 asusctl 6.3.8-1
 base 3-3
@@ -23,8 +23,8 @@ ccache 4.13.6-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.00247-1
 ddcutil 2.2.7-1
-discord 1:1.0.151-1
-dkms 3.4.1-1
+discord 1:1.0.152-1
+dkms 3.4.2-1
 downgrade 12.0.2-1
 easyeffects 8.2.8-1
 ebook-tools 0.2.2-9
@@ -39,7 +39,7 @@ fd 10.4.2-2
 feh 3.12.2-1
 ffmpegthumbnailer 2.3.0-1
 filezilla 3.70.6-1
-firefox 153.0.1-1
+firefox 153.0.3-1
 fortune-mod 3.26.1-1
 fuse2 2.9.9-5
 fuzzel 1.14.1-1
@@ -74,7 +74,7 @@ iwd 3.12-1
 jdk-openjdk 26.0.2.u10-1
 jetbrains-toolbox 3.6.3.86383-1
 jq 1.8.2-1
-lazygit 0.63.1-1
+lazygit 0.64.0-1
 less 1:704-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.5-1
@@ -99,11 +99,11 @@ nodejs 26.5.1-1
 noto-fonts 1:2026.08.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
-npm 12.0.1-1
+npm 12.0.2-1
 nvidia-open-dkms 610.43.03-5
 nvidia-prime 1.0-6
 nvidia-utils 610.43.03-5
-obsidian 1.13.4-1
+obsidian 1.13.4-2
 okular 26.04.3-1
 openmpi 5.0.10-3
 openssh 10.4p1-3
@@ -149,7 +149,7 @@ strawberry 1.2.26-1
 supergfxctl 5.2.7-2
 tailscale 1.98.10-1
 tectonic 0.17.0-1
-telegram-desktop 7.0.7-1
+telegram-desktop 7.0.8-2
 terminus-font 4.49.1-8
 texlive-basic 2026.1-1
 texlive-bibtexextra 2026.1-1
@@ -166,7 +166,7 @@ tmux 3.7_b-1
 tor-browser-bin 15.0.17-1
 ttf-dejavu 2.37+18+g9b5d1b2f-8
 ttf-fira-code 6.2-4
-ttf-firacode-nerd 3.4.0-2
+ttf-firacode-nerd 3.5.0-1
 ttf-jetbrains-mono 2.304-2
 ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
