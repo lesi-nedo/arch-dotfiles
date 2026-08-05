@@ -138,6 +138,7 @@ reflector 2023-5
 ripgrep 15.2.0-1
 rog-control-center 6.3.8-1
 rsync 3.4.4-1
+seahorse 1:47.0.1-6
 slurp 1.5.0-2
 smartmontools 7.5-1
 snapper 0.13.1-2
