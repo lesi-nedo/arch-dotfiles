@@ -25,7 +25,6 @@ rog-control-center
 supergfxctl
 tlrc
 tlrc-debug
-tor-browser-bin
 ttf-material-symbols-variable-git
 visual-studio-code-bin
 wacli
