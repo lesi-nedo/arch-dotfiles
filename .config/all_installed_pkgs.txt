@@ -150,7 +150,6 @@ strawberry 1.2.26-1
 supergfxctl 5.2.7-2
 tailscale 1.98.10-1
 tectonic 0.17.0-1
-telegram-desktop 7.0.8-2
 terminus-font 4.49.1-8
 texlive-basic 2026.1-1
 texlive-bibtexextra 2026.1-1
