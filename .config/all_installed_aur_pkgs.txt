@@ -16,6 +16,7 @@ google-chrome
 jetbrains-toolbox
 limine-mkinitcpio-hook
 litehtml0.9
+litehtml0.9-debug
 matugen-git
 noctalia-qs
 noctalia-shell
