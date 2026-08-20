@@ -39,9 +39,9 @@ fd 10.4.2-2
 feh 3.12.2-1
 ffmpegthumbnailer 2.3.0-2
 filezilla 3.70.6-1
-firefox 153.0.4-1
+firefox 154.0-1
 fortune-mod 3.26.1-1
-fuse2 2.9.9-5
+fuse2 2.9.9-6
 fuzzel 1.14.1-2
 gdb 17.2-1
 ghostscript 10.07.1-1
@@ -52,7 +52,7 @@ git-delta 0.19.2-2
 github-cli 2.97.0-1
 gnome-keyring 1:50.0-1
 gogcli 0.35.0-1
-google-chrome 151.0.7922.137-1
+google-chrome 151.0.7922.169-1
 gpu-screen-recorder 6.0.0-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.8-1
@@ -71,8 +71,8 @@ inetutils 2.8-1
 inter-font 4.1-1
 iotop 0.6-13
 iwd 3.12-1
-jdk-openjdk 26.0.2.u10-1
-jetbrains-toolbox 3.6.4.86641-1
+jdk-openjdk 26.0.2.1.u1-1
+jetbrains-toolbox 3.7.0.87111-1
 jq 1.8.2-1
 lazygit 0.64.1-1
 less 1:704-1
@@ -107,7 +107,7 @@ obsidian 1.13.7-2
 okular 26.04.3-1
 openmpi 5.0.10-3
 openssh 10.5p1-1
-opera 134.0.5954.56-1
+opera 134.0.5954.66-1
 papirus-icon-theme 20260801-1
 pipewire 1:1.6.8-1
 pipewire-alsa 1:1.6.8-1
@@ -173,7 +173,7 @@ ttf-roboto 3.015-1
 tumbler 4.20.2-1
 usbutils 019-1
 uwsm 0.26.6-1
-visual-studio-code-bin 1.133.0-1
+visual-studio-code-bin 1.134.0-1
 vlc 3.0.23_2-10
 wacli 0.17.1-1
 wev 1.1.0-1
