@@ -94,6 +94,7 @@ mpv 1:0.41.0-4
 mtpfs 1.1-5
 neovim 0.12.5-1
 networkmanager 1.58.1-1
+noctalia 5.0.0_beta.9-3
 noctalia-shell 4.7.7-3
 nodejs 26.7.0-1
 noto-fonts 1:2026.08.01-1
