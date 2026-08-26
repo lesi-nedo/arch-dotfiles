@@ -18,10 +18,7 @@ limine-mkinitcpio-hook
 litehtml0.9
 litehtml0.9-debug
 matugen-git
-noctalia-qs
-noctalia-shell
 opera
-python-pkg_resources
 rog-control-center
 supergfxctl
 tlrc
