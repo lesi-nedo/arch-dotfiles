@@ -122,6 +122,7 @@ ppp 2.5.3-1
 python-openai-whisper 20250625-3
 python-pipx 1.15.0-1
 python-pynvim 0.6.0-2
+python-truststore 0.10.4-3
 qpwgraph 1.0.3-1
 qt5-base 5.15.19+kde+r96-1
 qt5-imageformats 5.15.19+kde+r2-1
@@ -175,6 +176,8 @@ usbutils 019-1
 uwsm 0.26.7-1
 visual-studio-code-bin 1.134.0-1
 vlc 3.0.23_2-12
+vulkan-radeon 1:26.2.1-1
+vulkan-tools 1.4.357.0-1
 wacli 0.17.1-1
 wev 1.1.0-1
 wget 1.25.0-6
