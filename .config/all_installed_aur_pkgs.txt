@@ -3,8 +3,8 @@ accounts-qml-module-debug
 adwaita-qt5-git
 adwaita-qt6-git
 android-studio
-asusctl
-asusctl-debug
+asusctl-devel-git
+asusctl-devel-git-debug
 brave-bin
 connect-tunnel
 connect-tunnel-debug
@@ -19,7 +19,6 @@ litehtml0.9
 litehtml0.9-debug
 matugen-git
 opera
-rog-control-center
 supergfxctl
 tlrc
 tlrc-debug

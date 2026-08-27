@@ -7,7 +7,7 @@ android-file-transfer 4.5-2
 android-studio 2026.1.3.8-1
 anki 26.08.1-1
 aquamarine 0.14.0-2
-asusctl 6.3.8-1
+asusctl-devel-git 6.4.0.r47.gc1640ca3-1
 base 3-3
 base-devel 1-2
 bat 0.26.1-2
@@ -25,6 +25,7 @@ connect-tunnel 12.50.00247-1
 ddcutil 2.2.7-1
 discord 1:1.0.155-1
 dkms 3.4.3-2
+dmidecode 3.7-1
 downgrade 12.0.2-1
 easyeffects 8.2.8-1
 ebook-tools 0.2.2-9
@@ -136,7 +137,6 @@ qt6-wayland 6.11.2-1
 qt6ct 0.11-8
 reflector 2023-5
 ripgrep 15.2.0-1
-rog-control-center 6.3.8-1
 rsync 3.5.0-1
 seahorse 1:47.0.1-6
 slurp 1.5.0-2
