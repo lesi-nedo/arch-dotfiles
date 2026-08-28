@@ -37,7 +37,7 @@ eza 0.23.5-2
 fastfetch 2.67.1-1
 fcft 3.3.3-1
 fd 10.4.2-2
-feh 3.12.2-1
+feh 3.12.3-1
 ffmpegthumbnailer 2.3.0-2
 filezilla 3.71.0-1
 firefox 154.0.1-1
@@ -81,11 +81,11 @@ libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.2.5-3
 limine 12.6.1-1
 limine-mkinitcpio-hook 1.37.1-1
-linux 7.1.9.arch1-2
+linux 7.1.10.arch1-1
 linux-firmware 20260810-2
-linux-headers 7.1.9.arch1-2
-linux-lts 6.18.46-1
-linux-lts-headers 6.18.46-1
+linux-headers 7.1.10.arch1-1
+linux-lts 6.18.47-1
+linux-lts-headers 6.18.47-1
 lua51 5.1.5-13
 luarocks 3.13.0-5
 matugen-git 2.4.1.r103.g8ea1190-1
@@ -95,8 +95,8 @@ mpv 1:0.41.0-5
 mtpfs 1.1-5
 neovim 0.12.5-1
 networkmanager 1.58.1-1
-noctalia 5.0.0_beta.9-3
-nodejs 26.7.0-1
+noctalia 5.0.0_beta.10-1
+nodejs 26.8.1-1
 noto-fonts 1:2026.08.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:2.051-1
@@ -172,6 +172,7 @@ ttf-liberation 2.1.5-2
 ttf-material-symbols-variable-git 4.0.0.r140.g75796481-1
 ttf-roboto 3.015-1
 tumbler 4.20.2-1
+turbostat 7.2.1-1
 usbutils 019-1
 uwsm 0.26.7-1
 visual-studio-code-bin 1.134.0-1
