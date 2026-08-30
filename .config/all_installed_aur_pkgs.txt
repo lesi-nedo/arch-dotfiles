@@ -19,6 +19,8 @@ litehtml0.9
 litehtml0.9-debug
 matugen-git
 opera
+spotify
+spotify-adblock
 supergfxctl
 tlrc
 tlrc-debug
