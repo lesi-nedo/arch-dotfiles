@@ -80,7 +80,7 @@ less 1:704-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.8.0-2
 limine 12.6.1-1
-limine-mkinitcpio-hook 1.37.1-1
+limine-mkinitcpio-hook 1.38.0-1
 linux 7.2.2.arch1-1
 linux-firmware 20260810-2
 linux-headers 7.2.2.arch1-1
@@ -108,7 +108,7 @@ obsidian 1.13.7-2
 okular 26.08.0-2
 openmpi 5.0.10-3
 openssh 10.5p1-1
-opera 135.0.5973.55-2
+opera 135.0.5973.66-2
 papirus-icon-theme 20260801-1
 pipewire 1:1.6.8-1
 pipewire-alsa 1:1.6.8-1
