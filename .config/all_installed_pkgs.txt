@@ -52,7 +52,7 @@ git 2.55.0-1
 git-delta 0.19.2-2
 github-cli 2.100.0-1
 gnome-keyring 1:50.0-1
-gogcli 0.39.0-1
+gogcli 0.39.1-1
 google-chrome 152.0.7977.82-1
 gpu-screen-recorder 6.1.0-1
 grim 1.5.0-2
@@ -79,13 +79,13 @@ lazygit 0.64.1-1
 less 1:704-1
 libpulse 17.0+r98+gb096704c0-1
 libreoffice-fresh 26.8.0-2
-limine 12.7.0-1
+limine 12.8.0-1
 limine-mkinitcpio-hook 1.38.0-1
-linux 7.2.3.arch1-2
+linux 7.2.3.arch1-3
 linux-firmware 20260810-2
-linux-headers 7.2.3.arch1-2
-linux-lts 6.18.49-2
-linux-lts-headers 6.18.49-2
+linux-headers 7.2.3.arch1-3
+linux-lts 6.18.49-3
+linux-lts-headers 6.18.49-3
 lua51 5.1.5-13
 luarocks 3.13.0-5
 matugen-git 2.4.1.r103.g8ea1190-1
