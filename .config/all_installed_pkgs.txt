@@ -26,7 +26,7 @@ ddcutil 3.0.2-1
 discord 1:1.0.162-1
 dkms 3.4.4-1
 dmidecode 3.7-1
-downgrade 12.0.3-1
+downgrade 12.0.4-1
 easyeffects 8.3.0-1
 ebook-tools 0.2.2-9
 efibootmgr 18-4
@@ -54,7 +54,7 @@ git-delta 0.20.1-1
 github-cli 2.102.0-1
 gnome-keyring 1:51.1-1
 gogcli 0.43.0-1
-google-chrome 155.0.8059.39-1
+google-chrome 155.0.8059.79-1
 gpu-screen-recorder 6.1.4-1
 grim 1.5.0-2
 gst-plugin-pipewire 1:1.6.9-1
@@ -181,11 +181,11 @@ tumbler 4.20.2-2
 turbostat 7.2.10-1
 usbutils 019-1
 uwsm 0.27.0-1
-visual-studio-code-bin 1.141.0-1
+visual-studio-code-bin 1.141.1-1
 vlc 3.0.24-1
 vulkan-radeon 1:26.2.4-1
 vulkan-tools 1.4.363.0-1
-wacli 0.20.0-1
+wacli 0.21.0-1
 wev 1.1.0-1
 wget 1.25.0-6
 wireplumber 0.5.18-1
