@@ -14,7 +14,7 @@ bat 0.26.1-3
 biber 1:2.22-1
 bluez 5.87-2
 bluez-utils 5.87-2
-brave-bin 1:1.98.63-1
+brave-bin 1:1.99.55-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.3-1
 bun 1.4.4-1
@@ -185,11 +185,11 @@ tumbler 4.20.2-2
 turbostat 7.3.1-1
 usbutils 020-1
 uwsm 0.27.1-1
-visual-studio-code-bin 1.145.0-1
+visual-studio-code-bin 1.145.1-1
 vlc 3.0.24-1
 vulkan-radeon 1:26.2.6-1
 vulkan-tools 1.4.363.0-1
-wacli 0.25.1-1
+wacli 0.26.0-1
 wev 1.1.0-1
 wget 1.25.0-6
 wireplumber 0.5.18-1
