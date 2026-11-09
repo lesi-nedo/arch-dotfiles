@@ -5,7 +5,7 @@ amd-ucode 20261019-1
 amdgpu_top 0.11.5-1
 android-file-transfer 4.6-1
 android-studio 2026.2.2.8-1
-anki 26.09.4-1
+anki 26.09.4-2
 aquamarine 0.16.0-1
 asusctl-devel-git 6.4.0.r47.gc1640ca3-1
 base 3-3
@@ -57,7 +57,7 @@ git 2.56.0-1
 git-delta 0.20.1-1
 github-cli 2.103.3-1
 gnome-keyring 1:51.1-1
-gogcli 0.47.1-1
+gogcli 0.48.0-1
 google-chrome 157.0.8103.38-1
 gpu-screen-recorder 6.1.7-1
 grim 1.5.0-2
@@ -84,7 +84,7 @@ jdk-openjdk 27.0.1.0.3.u1-1
 jetbrains-toolbox 3.9.1.89198-1
 jq 1.8.2-1
 kseexpr 6.0.0.0-2
-lazygit 0.66.2-1
+lazygit 0.66.3-1
 less 1:710-1
 libpulse 17.0+r134+g77d25a1e6-1
 libqalculate 5.13.2-1
