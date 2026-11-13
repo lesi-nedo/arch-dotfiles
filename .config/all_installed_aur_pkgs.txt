@@ -6,6 +6,7 @@ android-studio
 asusctl-devel-git
 asusctl-devel-git-debug
 brave-bin
+chatgpt-bin
 connect-tunnel
 connect-tunnel-debug
 downgrade
