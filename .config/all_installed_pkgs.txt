@@ -50,7 +50,7 @@ filezilla 3.72.0-1
 firefox 160.0-1
 fortune-mod 3.26.1-1
 fuse2 2.9.9-6
-fuzzel 1.15.0-2
+fuzzel 1.15.0-3
 fwupd 2.1.9-1
 gdb 18.1-1
 ghostscript 10.08.0-1
@@ -93,7 +93,7 @@ libpulse 17.0+r134+g77d25a1e6-2
 libqalculate 5.13.2-1
 libreoffice-fresh 26.8.2-2
 limine 12.10.0-1
-limine-mkinitcpio-hook 1.40.0-1
+limine-mkinitcpio-hook 1.41.0-1
 linux 7.3.4.arch1-2
 linux-firmware 20261019-1
 linux-headers 7.3.4.arch1-2
@@ -119,7 +119,7 @@ nvidia-prime 1.0-6
 nvidia-utils 620.70.06-1
 obsidian 1.15.0-1
 okular 26.08.3-1
-openmpi 5.0.11-1
+openmpi 5.0.11-2
 openssh 10.6p2-1
 opera 140.0.6074.18-3
 papirus-icon-theme 20260801-1
