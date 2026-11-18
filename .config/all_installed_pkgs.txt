@@ -118,6 +118,7 @@ npm 12.2.2-1
 nvidia-open-dkms 620.70.06-1
 nvidia-prime 1.0-6
 nvidia-utils 620.70.06-1
+nvme-cli 3.2-2
 obsidian 1.15.0-1
 okular 26.08.3-1
 openmpi 5.0.11-2
