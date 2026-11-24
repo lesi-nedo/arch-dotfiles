@@ -115,9 +115,9 @@ noto-fonts 1:2026.11.01-1
 noto-fonts-cjk 20240730-1
 noto-fonts-emoji 1:20260924-1
 npm 12.2.3-1
-nvidia-open-dkms 620.73.04-1
+nvidia-open-dkms 620.70.06-1
 nvidia-prime 1.0-6
-nvidia-utils 620.73.04-1
+nvidia-utils 620.70.06-1
 nvme-cli 3.2-2
 obsidian 1.15.1-1
 okular 26.08.3-1
