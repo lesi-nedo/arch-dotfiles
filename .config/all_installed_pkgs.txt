@@ -16,7 +16,7 @@ blueman 2.4.6-2
 bluez 5.88-1
 bluez-obex 5.88-1
 bluez-utils 5.88-1
-brave-bin 1:1.100.58-1
+brave-bin 1:1.100.59-1
 brightnessctl 0.5.1-3
 btrfs-progs 7.3-1
 bun 1.4.5-1
