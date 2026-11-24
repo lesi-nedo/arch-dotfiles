@@ -22,7 +22,7 @@ btrfs-progs 7.3-1
 bun 1.4.5-1
 cava 1.0.0-2
 ccache 4.14.1-1
-chatgpt-bin 26.1120.41243-1
+chatgpt-bin 26.1120.50957-1
 cliphist 1:0.7.0-2
 connect-tunnel 12.50.01108-2
 ddcutil 3.0.2-1
