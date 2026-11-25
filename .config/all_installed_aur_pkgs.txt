@@ -2,7 +2,9 @@ accounts-qml-module
 accounts-qml-module-debug
 adwaita-qt5-git
 adwaita-qt6-git
+aic94xx-firmware
 android-studio
+ast-firmware
 asusctl-devel-git
 asusctl-devel-git-debug
 brave-bin
@@ -18,6 +20,7 @@ limine-mkinitcpio-hook
 litehtml0.9
 litehtml0.9-debug
 matugen-git
+mkinitcpio-firmware
 opera
 spotify
 spotify-adblock
@@ -25,9 +28,11 @@ supergfxctl
 tlrc
 tlrc-debug
 ttf-material-symbols-variable-git
+upd72020x-fw
 visual-studio-code-bin
 wacli
 wacli-debug
+wd719x-firmware
 woeusb-ng
 yay
 yay-debug
